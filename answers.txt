@@ -1,17 +1,17 @@
-Number of students who modified this file: 0 student
+Number of students who modified this file: 2 students
 
-Name of the last student who modfied this file: 
+Name of the last student who modfied this file: Vinaya Bhattarai
 
 -----------------------------------------------------
 [Template]
-Student ID:
-Name: 
-Question 1.
-Your favorite color: 
+Student ID:		1305900
+Name: 			Vinaya Bhattarai
+Question 1.	
+Your favorite color:	Green 
 
 Question 2.
-Your favorite sport: 
+Your favorite sport: 	Cricket
 
 Question 3.
-Your favorite food: 
+Your favorite food: 	Butter Chicken
 -----------------------------------------------------
