@@ -1,17 +1,17 @@
-Number of students who modified this file: 0 student
+Number of students who modified this file: 1 student
 
-Name of the last student who modfied this file: 
+Name of the last student who modified this file: Parbat Thakur 
 
 -----------------------------------------------------
 [Template]
-Student ID:
-Name: 
+Student ID:1305914	
+Name: Parbat Thakur
 Question 1.
-Your favorite color: 
+Your favorite color: Black
 
 Question 2.
-Your favorite sport: 
+Your favorite sport: Football
 
 Question 3.
-Your favorite food: 
+Your favorite food: MOMO
 -----------------------------------------------------
