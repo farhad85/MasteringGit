@@ -15,3 +15,13 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: MOMO
 -----------------------------------------------------
+Student ID:1306739	
+Name: Rodolfo Loaiza
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Running
+
+Question 3.
+Your favorite food: Eggs
