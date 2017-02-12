@@ -1,6 +1,6 @@
 Number of students who modified this file: 1 student
 
-Name of the last student who modified this file: Parbat Thakur 
+Name of the last student who modified this file: Juhani Lavonen 
 
 -----------------------------------------------------
 [Template]
@@ -15,3 +15,13 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: MOMO
 -----------------------------------------------------
+Student ID:1304454	
+Name: Juhani Lavonen
+Question 1.
+Your favorite color:Blue
+
+Question 2.
+Your favorite sport:Basketball
+
+Question 3.
+Your favorite food:Lihapullat ja muussi
