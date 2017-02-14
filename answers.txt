@@ -1,6 +1,6 @@
-Number of students who modified this file: 1 student
+Number of students who modified this file: 2 students
 
-Name of the last student who modified this file: Parbat Thakur 
+Name of the last student who modified this file: Antti Valkonen
 
 -----------------------------------------------------
 [Template]
@@ -14,4 +14,15 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: MOMO
+-----------------------------------------------------
+Student ID:1400408	
+Name: Antti Valkonen
+Question 1.
+Your favorite color: Midnight purple
+
+Question 2.
+Your favorite sport: F1
+
+Question 3.
+Your favorite food: Steak
 -----------------------------------------------------
