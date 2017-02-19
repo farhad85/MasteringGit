@@ -1,6 +1,6 @@
-Number of students who modified this file: 1 student
+Number of students who modified this file: 2 student
 
-Name of the last student who modified this file: Parbat Thakur 
+Name of the last student who modified this file: Sudarshan Koirala 
 
 -----------------------------------------------------
 [Template]
@@ -15,3 +15,13 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: MOMO
 -----------------------------------------------------
+Student ID: 1304983
+Name: Sudarshan Koriala
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Tennis
+
+Question 3.
+Your favorite food: Pasta
