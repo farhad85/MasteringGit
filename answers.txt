@@ -1,6 +1,6 @@
-Number of students who modified this file: 1 student
+Number of students who modified this file: 2 student
 
-Name of the last student who modified this file: Parbat Thakur 
+Name of the last student who modified this file: Carla Miettinen 
 
 -----------------------------------------------------
 [Template]
@@ -14,4 +14,18 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: MOMO
+-----------------------------------------------------
+
+-----------------------------------------------------
+[Template]
+Student ID:1402914
+Name: Carla Miettinen
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Ice hockey
+
+Question 3.
+Your favorite food: Sushi
 -----------------------------------------------------
