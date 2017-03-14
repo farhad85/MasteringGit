@@ -1,6 +1,6 @@
-Number of students who modified this file: 2 student
+Number of students who modified this file: 3 student
 
-Name of the last student who modified this file: Karar Mehdi Habib 
+Name of the last student who modified this file: Riku Seittenranta
 
 -----------------------------------------------------
 [Template]
@@ -25,6 +25,17 @@ Your favorite sport: Basketball
 
 Question 3.
 Your favorite food: Chicken Tikka Masala
+-----------------------------------------------------
+Student ID:1606491
+Name: Riku Seittenranta
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Disc golf
+
+Question 3.
+Your favorite food: Cheeseburger and Fries
 
 Student ID:1505610
 Name: Lutful Haider
