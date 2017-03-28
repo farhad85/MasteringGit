@@ -1,6 +1,6 @@
 Number of students who modified this file: 2 student
 
-Name of the last student who modified this file: Karar Mehdi Habib 
+Name of the last student who modified this file: Eemeli Hamara 
 
 -----------------------------------------------------
 [Template]
@@ -36,3 +36,14 @@ Your favorite sport: Cricket
 
 Question 3.
 Your favorite food: Sea food
+
+Student ID: 1403634	
+Name: Eemeli Hamara
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Chinese
