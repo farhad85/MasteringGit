@@ -36,3 +36,16 @@ Your favorite sport: Cricket
 
 Question 3.
 Your favorite food: Sea food
+
+-----------------------------------------------------
+
+Student ID:1304985 
+Name: Naran Upreti
+Question 1.
+Your favorite color: Pink
+
+Question 2.
+Your favorite sport: Beach Volleyball
+
+Question 3.
+Your favorite food: Ice Cream
