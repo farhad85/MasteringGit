@@ -1,6 +1,6 @@
-Number of students who modified this file: 2 student
+Number of students who modified this file: 3 students
 
-Name of the last student who modified this file: Karar Mehdi Habib 
+Name of the last student who modified this file: Shah Zaib Hassan 
 
 -----------------------------------------------------
 [Template]
@@ -36,3 +36,14 @@ Your favorite sport: Cricket
 
 Question 3.
 Your favorite food: Sea food
+
+Student ID:1304977
+Name: Shah Zaib Hassan
+Question 1.
+Your favorite color: Red
+
+Question 2.
+Your favorite sport: E-Gaming
+
+Question 3.
+Your favorite meal: Kheer
