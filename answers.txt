@@ -1,6 +1,6 @@
-Number of students who modified this file: 3 students
+Number of students who modified this file: 4 students
 
-Name of the last student who modified this file: Shah Zaib Hassan 
+Name of the last student who modified this file: Phan Dang Hai 
 
 -----------------------------------------------------
 [Template]
@@ -47,3 +47,14 @@ Your favorite sport: E-Gaming
 
 Question 3.
 Your favorite meal: Kheer
+-----------------------------------------------------
+Student ID:1403712	
+Name: Phan Dang Hai
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Ping pong
+
+Question 3.
+Your favorite food: Pho noodles
