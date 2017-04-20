@@ -1,11 +1,59 @@
-Number of students who modified this file: 2 students
+Number of students who modified this file: 3 students
 
-Name of the last student who modfied this file: Vinaya Bhattarai
+Name of the last student who modified this file: Shah Zaib Hassan 
 
 -----------------------------------------------------
 [Template]
+Student ID:1305914	
+Name: Parbat Thakur
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: MOMO
+-----------------------------------------------------
+Student ID:1304945
+Name: Karar Mehdi Habib
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Basketball
+
+Question 3.
+Your favorite food: Chicken Tikka Masala
+
+Student ID:1505610
+Name: Lutful Haider
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Cricket
+
+Question 3.
+Your favorite food: Sea food
+
+Student ID:1304977
+Name: Shah Zaib Hassan
+
+Question 1.
+Your favorite color: Red
+
+Question 2.
+Your favorite sport: E-Gaming
+
+Question 3.
+Your favorite meal: Kheer
+
+-----------------------------------------------------
+
 Student ID:		1305900
-Name: 			Vinaya Bhattarai
+Name: 			  Vinaya Bhattarai
+
 Question 1.	
 Your favorite color:	Green 
 
@@ -14,4 +62,3 @@ Your favorite sport: 	Cricket
 
 Question 3.
 Your favorite food: 	Butter Chicken
------------------------------------------------------
