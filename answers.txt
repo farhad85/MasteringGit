@@ -47,3 +47,14 @@ Your favorite sport: E-Gaming
 
 Question 3.
 Your favorite meal: Kheer
+
+Student ID:1105410	
+Name: Ahmed Mursalat
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Basketball
+
+Question 3.
+Your favorite food: Polao
