@@ -1,6 +1,6 @@
 Number of students who modified this file: 3 students
 
-Name of the last student who modified this file: Shah Zaib Hassan 
+Name of the last student who modified this file: Muttaqi Khan 
 
 -----------------------------------------------------
 [Template]
@@ -47,3 +47,14 @@ Your favorite sport: E-Gaming
 
 Question 3.
 Your favorite meal: Kheer
+
+Student ID:1304441
+Name: Muttaqi Khan
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite meal: Kachchi Biryani
