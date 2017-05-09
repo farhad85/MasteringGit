@@ -1,6 +1,6 @@
-Number of students who modified this file: 3 students
+Number of students who modified this file: 5 students
 
-Name of the last student who modified this file: Shah Zaib Hassan 
+Name of the last student who modified this file: Esko Rikkonen
 
 -----------------------------------------------------
 [Template]
@@ -47,3 +47,15 @@ Your favorite sport: E-Gaming
 
 Question 3.
 Your favorite meal: Kheer
+-----------------------------------------------------
+Student ID: 0502196	
+Name: Esko Rikkonen
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Uhm. Sports? Uhm. Football when it keeps the kids busy so I can finish the Git course project.
+
+Question 3.
+Your favorite food: Some healthy crap so my cholestrol stays down.
+-----------------------------------------------------
