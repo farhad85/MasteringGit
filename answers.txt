@@ -47,3 +47,15 @@ Your favorite sport: E-Gaming
 
 Question 3.
 Your favorite meal: Kheer
+
+Student ID:1305903
+Name: Murad Tanmoy
+Question 1.
+Your favorite color: black
+
+Question 2.
+Your favorite sport: cricket
+
+Question 3.
+Your favorite meal: Biryani
+
