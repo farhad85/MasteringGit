@@ -1,6 +1,6 @@
-Number of students who modified this file: 4 students
+Number of students who modified this file: 5 students
 
-Name of the last student who modified this file: Ricardo Oksa
+Name of the last student who modified this file: Sushil Bastola
 
 -----------------------------------------------------
 [Template]
@@ -58,5 +58,17 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite meal: Pizza
+
+Student ID:1403786	
+Name: Sushil Bastola
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: MOMO
+
 
 
