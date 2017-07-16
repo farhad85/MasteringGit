@@ -1,6 +1,6 @@
-Number of students who modified this file: 4 students
+Number of students who modified this file: 5 students
 
-Name of the last student who modified this file: Ricardo Oksa
+Name of the last student who modified this file: Tero H
 
 -----------------------------------------------------
 [Template]
@@ -59,4 +59,14 @@ Your favorite sport: Football
 Question 3.
 Your favorite meal: Pizza
 
+StudentID: 1505903
+Name: Tero H
+Question 1.
+Your favourite color: black
+
+Question 2.
+Your favourite sport: Don't know...
+
+Question 3.
+Your favourite meal: Chinese, probably some northern dish.
 
