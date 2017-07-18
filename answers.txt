@@ -70,3 +70,15 @@ Your favourite sport: Don't know...
 Question 3.
 Your favourite meal: Chinese, probably some northern dish.
 
+
+StudentID: 1403733
+Name: Sobhan Niroula		
+Question 1.
+Your favourite color: green
+
+Question 2.
+Your favourite sport: Football
+
+Question 3.
+Your favourite meal: Momo
+
