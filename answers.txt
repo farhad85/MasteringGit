@@ -82,3 +82,14 @@ Your favorite sport: Swimming
 Question 3.
 Your favorite food: Sushi
 
+Student ID:1402988	
+Name: Henri Salmela
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Rally
+
+Question 3.
+Your favorite food: Burger
+
