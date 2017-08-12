@@ -1,0 +1,8 @@
+Tehran, Iran
+BeiJing,China
+Bangkok, Thailand
+Manila,Philipin
+Seoul,Korea
+Tokyo,Japan
+Copenhagen, Denmark
+Amsterdam, Holland
