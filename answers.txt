@@ -1,6 +1,6 @@
-Number of students who modified this file: 9 students
+Number of students who modified this file: 10 students
 
-Name of the last student who modified this file: Ahmed Jaber Choudhury
+Name of the last student who modified this file: Hang Duy Khiem
 -----------------------------------------------------
 [Template]
 Student ID:1305914	
@@ -127,4 +127,16 @@ Your favorite sport: chest
 							   
 Question 3.
 Your favorite food: Pho	
+
+------------------------------------------------------------
+Student ID: 1403734
+Name: Hang Duy Khiem					   
+Question 1.
+Your favorite color: green				   
+
+Question 2.						   
+Your favorite sport: jogging
+							   
+Question 3.
+Your favorite food: sugar	
 
