@@ -128,3 +128,14 @@ Your favorite sport: chest
 Question 3.
 Your favorite food: Pho	
 
+Student ID:1708131
+Name: Mahendra Mahat					   
+Question 1.
+Your favorite color: Navy blue				   
+
+Question 2.						   
+Your favorite sport: Cricket
+							   
+Question 3.
+Your favorite food: lamb curry	
+
