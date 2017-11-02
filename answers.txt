@@ -138,4 +138,13 @@ Your favorite sport: Cricket
 							   
 Question 3.
 Your favorite food: lamb curry	
+------------------------------------------------------------------------------
+Student ID: 1304980
+Name: Hem Dhungel
 
+Question 1.
+Your favorite color: Black
+Question 2.
+Your Favorite sports: Football
+Question 3.
+Your favorite food: Anything tasty and healthy
