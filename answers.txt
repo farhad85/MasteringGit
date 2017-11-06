@@ -153,7 +153,11 @@ Student ID: 1708501
 Name: Soeun Jang
 
 Question 1.
+<<<<<<< HEAD
 Your favorite color: Green
+=======
+Your favorite color: Black
+>>>>>>> 46daa0621686bcb1222e2d0ab9bf423705fd0497
 Question 2.
 Your Favorite sports: Badminton
 Question 3.
