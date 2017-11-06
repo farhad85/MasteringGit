@@ -138,4 +138,23 @@ Your favorite sport: Cricket
 							   
 Question 3.
 Your favorite food: lamb curry	
+------------------------------------------------------------------------------
+Student ID: 1304980
+Name: Hem Dhungel
 
+Question 1.
+Your favorite color: Black
+Question 2.
+Your Favorite sports: Football
+Question 3.
+Your favorite food: Anything tasty and healthy
+------------------------------------------------------------------------------
+Student ID: 1708501
+Name: Soeun Jang
+
+Question 1.
+Your favorite color: Green
+Question 2.
+Your Favorite sports: Badminton
+Question 3.
+Your favorite food: Anything spicy
