@@ -138,6 +138,18 @@ Your favorite sport: Cricket
 							   
 Question 3.
 Your favorite food: lamb curry	
+
+Student ID:1205121
+Name: Ganesh Lamichhane					   
+Question 1.
+Your favorite color: blue				   
+
+Question 2.						   
+Your favorite sport: chest
+							   
+Question 3.
+Your favorite food: gha
+
 ------------------------------------------------------------------------------
 Student ID: 1304980
 Name: Hem Dhungel
