@@ -1,3 +1,15 @@
+Student ID:1506635
+Name: Bikash Adhikari
+
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport:Football
+
+Question 3.
+Your favorite food:Pizza
+
 Number of students who modified this file: 9 students
 
 Name of the last student who modified this file: Ahmed Jaber Choudhury

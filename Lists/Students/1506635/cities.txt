@@ -1,0 +1,7 @@
+Paris,France
+Tehran,Iran
+Tokyo,Japan
+Oslo,Norway
+NewYork,USA
+Frankfurt,Germany
+Rome,Italy
