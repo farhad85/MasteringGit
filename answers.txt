@@ -1,6 +1,6 @@
-Number of students who modified this file: 14 students
+Number of students who modified this file: 15 students
 
-Name of the last student who modified this file: Jaakko Nurmi
+Name of the last student who modified this file: Sauli Tyvi
 -----------------------------------------------------
 [Template]
 Student ID:1305914	
@@ -173,3 +173,12 @@ Your Favorite sports: Ice Hockey
 Question 3.
 Your favorite food: Anything spicy and hot.
 ------------------------------------------------------------------------------
+Student ID: 1708601
+Name:	Sauli TYvi
+
+Question 1:
+Your favourite color: Black
+QUestion 2:
+Your favorite sports: Rugby
+Question 3:
+Your favorite food: Chinese
