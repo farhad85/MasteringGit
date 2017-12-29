@@ -1,6 +1,6 @@
-Number of students who modified this file: 17 students
+Number of students who modified this file: 18 students
 
-Name of the last student who modified this file: Kasperi Klaavo
+Name of the last student who modified this file: Nico Hairetdin
 -----------------------------------------------------
 [Template]
 Student ID:1305914	
@@ -203,3 +203,15 @@ Your favorite sport: Cycling
 
 Question 3.
 Your favorite food: Avocadopizza
+-----------------------------------------------------
+Student ID:1602068	
+Name: Nico Hairetdin
+Question 1.
+Your favorite color: Sky blue
+
+Question 2.
+Your favorite sport: Swimming
+
+Question 3.
+Your favorite food: Indian
+-----------------------------------------------------
