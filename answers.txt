@@ -1,6 +1,6 @@
-Number of students who modified this file: 19 students
+Number of students who modified this file: 20 students
 
-Name of the last student who modified this file: Thien Ly
+Name of the last student who modified this file: Khanh Phan
 -----------------------------------------------------
 [Template]
 Student ID:1305914	
@@ -226,3 +226,13 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: Vietnamese Pho
 -----------------------------------------------------
+Student ID: 1504219
+Name: Khanh Phan
+Question 1.
+Your favorite color: Grey
+
+Question 2.
+Your favorite sport: Baseball
+
+Question 3.
+Your favorite food: Homemade beef jerky
