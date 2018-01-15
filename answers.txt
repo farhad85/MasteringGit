@@ -236,3 +236,14 @@ Your favorite sport: Table Tennis
 
 Question 3.
 Your favorite food: Pizza
+-----------------------------------------------------
+Student ID:1705010	
+Name: Jun Jung
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Table Tennis
+
+Question 3.
+Your favorite food: Pizza
