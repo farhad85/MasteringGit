@@ -236,3 +236,15 @@ Your favorite sport: Table Tennis
 
 Question 3.
 Your favorite food: Pizza
+
+-----------------------------------------------------
+Student ID: 1605485
+Name: Subodh Dahal
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: MMA
+
+Question 3.
+Your favorite food: MoMo
