@@ -1,6 +1,6 @@
-Number of students who modified this file: 20 students
+Number of students who modified this file: 21 students
 
-Name of the last student who modified this file: Matti Palmen
+Name of the last student who modified this file: Sagar Aryal
 -----------------------------------------------------
 [Template]
 Student ID:1305914	
@@ -247,3 +247,16 @@ Your favorite sport: Paddling
 
 Question 3.
 Your favorite food: Traditional finnish food
+
+-----------------------------------------------------
+Student ID:1306663	
+Name: Sagar Aryal
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Nepalese(Chicken Tikka Masala)
+-----------------------------------------------------
