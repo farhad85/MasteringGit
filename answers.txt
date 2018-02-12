@@ -269,5 +269,5 @@ Question 2.
 Your favorite sport: Swimming, Table tennis
 
 Question 3.
-Your favorite food: Asian food
+Your favorite food: Asian food in general
 -----------------------------------------------------
