@@ -260,3 +260,14 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: Nepalese(Chicken Tikka Masala)
 -----------------------------------------------------
+Student ID:1304950
+Name: Tu Nguyen
+Question 1.
+Your favorite color: Blue, Green
+
+Question 2.
+Your favorite sport: Swimming, Table tennis
+
+Question 3.
+Your favorite food: Asian food in general
+-----------------------------------------------------
