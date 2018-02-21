@@ -4,3 +4,5 @@ Bangkok, Thailand
 Tokyo,Japan
 Copenhagen, Denmark
 Amsterdam, Holland
+California, USA
+Madrid, Spain
