@@ -1,6 +1,6 @@
-Number of students who modified this file: 23 students
+Number of students who modified this file: 24 students
 
-Name of the last student who modified this file: Sandip Gautam
+Name of the last student who modified this file: Kalle Verho
 -----------------------------------------------------
 [Template]
 Student ID:1305914	
@@ -281,4 +281,15 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Mo:MO
+-----------------------------------------------------
+Student ID:a1602782
+Name: Kalle Verho
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Billiards
+
+Question 3.
+Your favorite food: French Fries
 -----------------------------------------------------
