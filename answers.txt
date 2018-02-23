@@ -1,6 +1,6 @@
-Number of students who modified this file: 23 students
+Number of students who modified this file: 24 students
 
-Name of the last student who modified this file: Sandip Gautam
+Name of the last student who modified this file: Kalle Verho
 -----------------------------------------------------
 [Template]
 Student ID:1305914	
@@ -153,11 +153,11 @@ Student ID: 1708501
 Name: Soeun Jang
 
 Question 1.
-<<<<<<< HEAD
+
 Your favorite color: Green
 =======
 Your favorite color: Black
->>>>>>> 46daa0621686bcb1222e2d0ab9bf423705fd0497
+
 Question 2.
 Your Favorite sports: Badminton
 Question 3.
@@ -293,4 +293,15 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Neplese Cuisine 
+=======
+Student ID:a1602782
+Name: Kalle Verho
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Billiards
+
+Question 3.
+Your favorite food: French Fries
 -----------------------------------------------------
