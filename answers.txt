@@ -282,3 +282,15 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: Mo:MO
 -----------------------------------------------------
+
+Student ID:1305923	
+Name: Manish Das
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Neplese Cuisine 
+-----------------------------------------------------
