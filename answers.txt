@@ -3,7 +3,7 @@ Number of students who modified this file: 24 students
 Name of the last student who modified this file: Kalle Verho
 -----------------------------------------------------
 [Template]
-Student ID:1305914	
+Student ID:1305914
 Name: Parbat Thakur
 Question 1.
 Your favorite color: Black
@@ -47,8 +47,8 @@ Your favorite sport: E-Gaming
 Question 3.
 Your favorite meal: Kheer
 
-Student ID:1700908	
-Name: Ricardo Oksa	
+Student ID:1700908
+Name: Ricardo Oksa
 Question 1.
 Your favorite color: Navy blue
 
@@ -69,7 +69,7 @@ Your favourite sport: Don't know...
 Question 3.
 Your favourite meal: Chinese, probably some northern dish.
 
-Student ID:1504160	
+Student ID:1504160
 Name: Apollinariia Gainulenko
 
 Question 1.
@@ -94,7 +94,7 @@ Question 3.
 Your favorite food: Tomyum				   |
 
 ------------------------------------------------------------
-Student ID:1501104	
+Student ID:1501104
 Name: Simo Suominen
 Question 1.
 Your favorite color: Navy Blue
@@ -106,7 +106,7 @@ Question 3.
 Your favorite food: Pizza
 
 Student ID:1305012
-Name: Ahmed Jaber Choudhury	
+Name: Ahmed Jaber Choudhury
 Question 1.
 Your favorite color: Blue
 
@@ -118,26 +118,26 @@ Your favorite food: Biriani
 
 ------------------------------------------------------------
 Student ID:a1600607
-Name: Thu Nghiem					   
+Name: Thu Nghiem
 Question 1.
-Your favorite color: blue				   
+Your favorite color: blue
 
-Question 2.						   
+Question 2.
 Your favorite sport: chest
-							   
+
 Question 3.
-Your favorite food: Pho	
+Your favorite food: Pho
 
 Student ID:1708131
-Name: Mahendra Mahat					   
+Name: Mahendra Mahat
 Question 1.
-Your favorite color: Navy blue				   
+Your favorite color: Navy blue
 
-Question 2.						   
+Question 2.
 Your favorite sport: Cricket
-							   
+
 Question 3.
-Your favorite food: lamb curry	
+Your favorite food: lamb curry
 ------------------------------------------------------------------------------
 Student ID: 1304980
 Name: Hem Dhungel
@@ -193,7 +193,7 @@ Your favorite sports: chess
 Question 3:
 Your favorite food: Lamb and rice.
 -------------------------------------------------------------------------------
-Student ID:1708500	
+Student ID:1708500
 Name: Kasperi Klaavo
 Question 1.
 Your favorite color: Blue
@@ -204,7 +204,7 @@ Your favorite sport: Cycling
 Question 3.
 Your favorite food: Avocadopizza
 -----------------------------------------------------
-Student ID:1602068	
+Student ID:1602068
 Name: Nico Hairetdin
 Question 1.
 Your favorite color: Sky blue
@@ -215,7 +215,7 @@ Your favorite sport: Swimming
 Question 3.
 Your favorite food: Indian
 -----------------------------------------------------
-Student ID:A1600792	
+Student ID:A1600792
 Name: Jari Pentti
 Question 1.
 Your favorite color: Black
@@ -226,7 +226,7 @@ Your favorite sport: American Football
 Question 3.
 Your favorite food: Pulled oats
 -----------------------------------------------------
-Student ID:1705010	
+Student ID:1705010
 Name: Jun Jung
 Question 1.
 Your favorite color: Blue
@@ -249,7 +249,7 @@ Question 3.
 Your favorite food: Traditional finnish food
 
 -----------------------------------------------------
-Student ID:1306663	
+Student ID:1306663
 Name: Sagar Aryal
 Question 1.
 Your favorite color: Blue
@@ -271,7 +271,7 @@ Your favorite sport: Swimming, Table tennis
 Question 3.
 Your favorite food: Asian food in general
 -----------------------------------------------------
-Student ID:1504229	
+Student ID:1504229
 Name: Sandip Gautam
 Question 1.
 Your favorite color: Green
@@ -283,7 +283,7 @@ Question 3.
 Your favorite food: Mo:MO
 -----------------------------------------------------
 
-Student ID:1305923	
+Student ID:1305923
 Name: Manish Das
 Question 1.
 Your favorite color: Blue
@@ -292,7 +292,7 @@ Question 2.
 Your favorite sport: Football
 
 Question 3.
-Your favorite food: Neplese Cuisine 
+Your favorite food: Neplese Cuisine
 =======
 Student ID:a1602782
 Name: Kalle Verho
@@ -305,3 +305,16 @@ Your favorite sport: Billiards
 Question 3.
 Your favorite food: French Fries
 -----------------------------------------------------
+
+Student ID:13059O9
+Name: Omid
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Squash
+
+Question 3.
+Your favorite food: Flafel
+
+
