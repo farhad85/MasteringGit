@@ -1,6 +1,6 @@
-Number of students who modified this file: 24 students
+Number of students who modified this file: 25 students
 
-Name of the last student who modified this file: Kalle Verho
+Name of the last student who modified this file: Amrit Gautam
 -----------------------------------------------------
 [Template]
 Student ID:1305914	
@@ -304,4 +304,15 @@ Your favorite sport: Billiards
 
 Question 3.
 Your favorite food: French Fries
+-----------------------------------------------------
+Student ID:1304979
+Name: Amrit Gautam
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Cricket
+
+Question 3.
+Your favorite food: Dhal(soup), Bhat(Rice), Masu(Spicy Chicken's Meat) and Aachar(Pickles)
 -----------------------------------------------------
