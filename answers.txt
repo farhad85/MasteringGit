@@ -1,4 +1,4 @@
-Number of students who modified this file: 25 students
+Number of students who modified this file: 26 students
 
 Name of the last student who modified this file: Pawel Kiczko
 -----------------------------------------------------
@@ -271,6 +271,18 @@ Your favorite sport: Swimming, Table tennis
 Question 3.
 Your favorite food: Asian food in general
 -----------------------------------------------------
+Student ID:1801670
+Name: Niko Torvinen
+Question 1.
+Your favorite color: Steel, Blood, Walnut
+
+Question 2.
+Your favorite sport: Swimming, Hiking
+
+Question 3.
+Your favorite food: Pizza, Soups, Fish and Vodka .\,,/
+-----------------------------------------------------
+=======
 Student ID:1504229
 Name: Sandip Gautam
 Question 1.
