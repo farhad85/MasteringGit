@@ -1,6 +1,6 @@
-Number of students who modified this file: 26 students
+Number of students who modified this file: 27 students
 
-Name of the last student who modified this file: Pawel Kiczko
+Name of the last student who modified this file: Deepak Bhandari
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -328,3 +328,13 @@ Your favorite sport: Volleyball
 Question 3.
 Your favorite food: beans
 -----------------------------------------------------
+Student ID:1304948
+Name: Deepak Bhandari
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Pizza
