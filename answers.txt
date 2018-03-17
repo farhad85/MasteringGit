@@ -1,6 +1,6 @@
-Number of students who modified this file: 28 students
+Number of students who modified this file: 27 students
 
-Name of the last student who modified this file: Tudor Nica
+Name of the last student who modified this file: Deepak Bhandari
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -338,15 +338,3 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Pizza
------------------------------------------------------
-Student ID:1800101
-Name: Tudor Nica
-Question 1.
-Your favorite color: Green
-
-Question 2.
-Your favorite sport: Cycling
-
-Question 3.
-Your favorite food: Ciorba de burta
-
