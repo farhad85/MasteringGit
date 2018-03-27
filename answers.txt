@@ -1,6 +1,6 @@
-Number of students who modified this file: 27 students
+Number of students who modified this file: 28 students
 
-Name of the last student who modified this file: Deepak Bhandari
+Name of the last student who modified this file: Sara Heljasvuo
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -338,3 +338,18 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Pizza
+
+-----------------------------------------------------
+
+Student ID:1602823
+Name: Sara Heljasvuo
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Soccer
+
+Question 3.
+Your favorite food: Pizza
+
+-----------------------------------------------------
