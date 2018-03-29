@@ -1,6 +1,6 @@
-Number of students who modified this file: 28 students
+Number of students who modified this file: 29 students
 
-Name of the last student who modified this file: Timo Jokela
+Name of the last student who modified this file: Tiia Mikkonen
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -349,3 +349,16 @@ Your favorite sport: Hiking
 
 Question 3.
 Your favorite food: Karelian stew
+-----------------------------------------------------
+Student ID:1304897
+Name: Tiia Mikkonen
+Question 1.
+Your favorite color: Purple
+
+Question 2.
+Your favorite sport: Cycling, baseball
+
+Question 3.
+Your favorite food: Anything with cheese or anything spicy.
+-----------------------------------------------------
+
