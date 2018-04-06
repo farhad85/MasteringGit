@@ -1,6 +1,6 @@
-Number of students who modified this file: 28 students
+Number of students who modified this file: 29 students
 
-Name of the last student who modified this file: Timo Jokela
+Name of the last student who modified this file: Ville Korhonen
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -349,3 +349,15 @@ Your favorite sport: Hiking
 
 Question 3.
 Your favorite food: Karelian stew
+-----------------------------------------------------
+Student ID:1701118
+Name: Ville Korhonen
+Question 1.
+Your favorite color: White
+
+Question 2.
+Your favorite sport: Boxing
+
+Question 3.
+Your favorite food: Tacos
+-----------------------------------------------------
