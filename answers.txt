@@ -1,6 +1,6 @@
-Number of students who modified this file: 29 students
+Number of students who modified this file: 30 students
 
-Name of the last student who modified this file: Hamza Jalal
+Name of the last student who modified this file: Daniel Stafford
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -360,3 +360,14 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: BBQ Chicken
+-----------------------------------------------------
+Student ID: 1708918
+Name: Daniel Stafford
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Cycling
+
+Question 3.
+Your favorite food: Tacos
