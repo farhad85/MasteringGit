@@ -1,6 +1,6 @@
-Number of students who modified this file: 30 students
+Number of students who modified this file: 31 students
 
-Name of the last student who modified this file: Daniel Stafford
+Name of the last student who modified this file: Longina Sudakova
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -371,3 +371,24 @@ Your favorite sport: Cycling
 
 Question 3.
 Your favorite food: Tacos
+-----------------------------------------------------
+Student ID: 1604069
+
+Name: Longina Sudakova
+
+
+
+Question 1.
+
+Your favourite color: Blue
+
+
+Question 2.
+
+Your favourite sport: Swimming.
+
+
+
+Question 3.
+
+Your favourite food: chocolate cake.
