@@ -1,1 +1,4 @@
-"" 
+# Ignore files as instructed
+.[Ee][Xx][Ee]
+.[Pp][Ii][Ff]
+.[Pp][Ss][Dd] 
