@@ -1,6 +1,6 @@
-Number of students who modified this file: 31 students
+Number of students who modified this file: 32 students
 
-Name of the last student who modified this file: Hung Nguyen
+Name of the last student who modified this file: Minh Ly
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -382,3 +382,14 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Pizza
+------------------------------------------------------
+Student ID: 1401371 (Laurea student ID)
+Name: Ly Trieu Minh (Minh Ly)
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Swimming
+
+Question 3.
+Your favorite food: Bun bo Hue
