@@ -1,6 +1,6 @@
-Number of students who modified this file: 32 students
+Number of students who modified this file: 33 students
 
-Name of the last student who modified this file: Minh Ly
+Name of the last student who modified this file: Nikolas Kapali
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -393,3 +393,14 @@ Your favorite sport: Swimming
 
 Question 3.
 Your favorite food: Bun bo Hue
+-------------------------------------------------------
+Student ID: 1607113
+Name: Nikolas Kapali
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Momo
