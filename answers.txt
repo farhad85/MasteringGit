@@ -1,6 +1,6 @@
-Number of students who modified this file: 28 students
+Number of students who modified this file: 34 students
 
-Name of the last student who modified this file: Tudor Nica
+Name of the last student who modified this file: Ujjawal Shrestha
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -339,8 +339,30 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: Pizza
 -----------------------------------------------------
-Student ID:1800101
-Name: Tudor Nica
+Student ID:1708593
+Name: Timo Jokela
+Question 1.
+Your favorite color: Terra
+
+Question 2.
+Your favorite sport: Hiking
+
+Question 3.
+Your favorite food: Karelian stew
+-----------------------------------------------------
+Student ID:a1504542
+Name: Hamza Jalal
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: BBQ Chicken
+-----------------------------------------------------
+Student ID: 1708918
+Name: Daniel Stafford
 Question 1.
 Your favorite color: Green
 
@@ -348,5 +370,49 @@ Question 2.
 Your favorite sport: Cycling
 
 Question 3.
-Your favorite food: Ciorba de burta
+Your favorite food: Tacos
+-----------------------------------------------------
+Student ID: 1504211
+Name: Hung Nguyen
+Question 1.
+Your favorite color: Black
 
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Pizza
+------------------------------------------------------
+Student ID: 1401371 (Laurea student ID)
+Name: Ly Trieu Minh (Minh Ly)
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Swimming
+
+Question 3.
+Your favorite food: Bun bo Hue
+-----------------------------------------------------
+Student ID: 1802994
+Name: Joonas Penttinen
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Icehockey
+
+Question 3.
+Your favorite food: Pizza
+
+-----------------------------------------------------
+Student ID: K4424
+Name: Ujjawal Shrestha
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Momo
