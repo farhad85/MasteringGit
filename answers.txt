@@ -1,6 +1,6 @@
-Number of students who modified this file: 34 students
+Number of students who modified this file: 35 students
 
-Name of the last student who modified this file: Ujjawal Shrestha
+Name of the last student who modified this file: Max Laihonen
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -416,3 +416,16 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Momo
+
+-----------------------------------------------------
+Student ID:1400209
+Name: Max Laihonen
+Question 1.
+Your favorite color: Pantone 280 C
+
+Question 2.
+Your favorite sport: Diving
+
+Question 3.
+Your favorite food: Sushi
+-----------------------------------------------------
