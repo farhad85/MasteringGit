@@ -1,6 +1,6 @@
-Number of students who modified this file: 35 students
+Number of students who modified this file: 36 students
 
-Name of the last student who modified this file: Noora Jokinen
+Name of the last student who modified this file: Elina Rajala
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -429,4 +429,14 @@ Your favorite sport: Cycling
 Question 3.
 Your favorite food: Burger and fries
 -----------------------------------------------------
+Student ID:1800367
+Name: Elina Rajala
+Question 1.
+Your favorite color: Red
 
+Question 2.
+Your favorite sport: Weightlifting
+
+Question 3.
+Your favorite food: Tonkotsu Ramen
+-----------------------------------------------------
