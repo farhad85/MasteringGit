@@ -1,6 +1,6 @@
-Number of students who modified this file: 38 students
+Number of students who modified this file: 39 students
 
-Name of the last student who modified this file: Huong Ngo
+Name of the last student who modified this file: Petri Salo
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -460,4 +460,15 @@ Question 2.
 Your favorite sport: Badminton
 Question 3.
 Your favorite food: Ramen
+-----------------------------------------------------
+Student ID: 1802259
+Name: Petri Salo
+Question 1.
+Your favorite color: Purple
+
+Question 2.
+Your favorite sport: Badminton
+
+Question 3.
+Your favorite food: Spaghetti Bolognese
 -----------------------------------------------------
