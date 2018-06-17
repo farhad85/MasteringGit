@@ -1,6 +1,6 @@
-Number of students who modified this file: 40 students
+Number of students who modified this file: 39 students
 
-Name of the last student who modified this file: Severi Kupari
+Name of the last student who modified this file: Petri Salo
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -471,15 +471,4 @@ Your favorite sport: Badminton
 
 Question 3.
 Your favorite food: Spaghetti Bolognese
------------------------------------------------------
-Student ID:SeveriKu
-Name: Severi Kupari
-Question 1.
-Your favorite color: red
-
-Question 2.
-Your favorite sport: Volleyball
-
-Question 3.
-Your favorite food: Steak
 -----------------------------------------------------
