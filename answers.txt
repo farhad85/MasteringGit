@@ -472,3 +472,14 @@ Your favorite sport: Badminton
 Question 3.
 Your favorite food: Spaghetti Bolognese
 -----------------------------------------------------
+Student ID:K1411
+Name: Mikko Jokinen
+Question 1.
+Your favorite color: Red
+
+Question 2.
+Your favorite sport: Motor sports
+
+Question 3.
+Your favorite food: Roll kebab
+-----------------------------------------------------
