@@ -1,0 +1,23 @@
+Dublin, Ireland
+Amsterdam, Netherlands
+Paris, France
+Monte Carlo, Monaco
+Rome, Italy
+Zürich, Switzerland
+Innsbruck, Austria
+Oberstdorf, Germany
+San Francisco, CA, USA
+Los Angeles, CA, USA
+Portland, OR, USA
+Bend, OR, USA
+New York City, NY, USA
+Denver, CO, USA
+New Orleans, LA, USA
+Ho Chi Minh City, Vietnam
+Melbourne, Australia
+Gold Coast, Australia
+Wellington, New Zealand
+Kuala Lumpur, Malesia
+Tehran, Iran
+
+
