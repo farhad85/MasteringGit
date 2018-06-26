@@ -1,6 +1,6 @@
-Number of students who modified this file: 39 students
+Number of students who modified this file: 40 students
 
-Name of the last student who modified this file: Petri Salo
+Name of the last student who modified this file: Mikko Jokinen
 -----------------------------------------------------
 [Template]
 Student ID:1305914
