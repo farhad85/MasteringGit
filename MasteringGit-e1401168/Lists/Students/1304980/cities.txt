@@ -1,0 +1,6 @@
+Amsterdam,Netherland
+Paris,France
+Barcelona,Spain
+Tehran,Iran
+Oslo,Norway
+Warsaw,Poland

@@ -1,0 +1,6 @@
+Tehran, Iran
+BeiJing,China
+Bangkok, Thailand
+Tokyo,Japan
+Copenhagen, Denmark
+Amsterdam, Holland

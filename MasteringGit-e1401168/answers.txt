@@ -1,0 +1,509 @@
+Number of students who modified this file: 42 students
+
+Name of the last student who modified this file: Valid Ahmadi
+
+-----------------------------------------------------
+[Template]
+Student ID:1305914
+Name: Parbat Thakur
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: MOMO
+-----------------------------------------------------
+Student ID:1304945
+Name: Karar Mehdi Habib
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Basketball
+
+Question 3.
+Your favorite food: Chicken Tikka Masala
+
+Student ID:1505610
+Name: Lutful Haider
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Cricket
+
+Question 3.
+Your favorite food: Sea food
+
+Student ID:1304977
+Name: Shah Zaib Hassan
+Question 1.
+Your favorite color: Red
+
+Question 2.
+Your favorite sport: E-Gaming
+
+Question 3.
+Your favorite meal: Kheer
+
+Student ID:1700908
+Name: Ricardo Oksa
+Question 1.
+Your favorite color: Navy blue
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite meal: Pizza
+
+StudentID: 1505903
+Name: Tero H
+Question 1.
+Your favourite color: black
+
+Question 2.
+Your favourite sport: Don't know...
+
+Question 3.
+Your favourite meal: Chinese, probably some northern dish.
+
+Student ID:1504160
+Name: Apollinariia Gainulenko
+
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Swimming
+
+Question 3.
+Your favorite food: Sushi
+
+------------------------------------------------------------
+Student ID:1504166
+Name: Ly Duong Hai					   |
+Question 1.
+Your favorite color: blue				   |
+
+Question 2.						   |
+Your favorite sport: taekwondo
+							   |
+Question 3.
+Your favorite food: Tomyum				   |
+
+------------------------------------------------------------
+Student ID:1501104
+Name: Simo Suominen
+Question 1.
+Your favorite color: Navy Blue
+
+Question 2.
+Your favorite sport: Ice hockey
+
+Question 3.
+Your favorite food: Pizza
+
+Student ID:1305012
+Name: Ahmed Jaber Choudhury
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Cricket
+
+Question 3.
+Your favorite food: Biriani
+
+------------------------------------------------------------
+Student ID:a1600607
+Name: Thu Nghiem
+Question 1.
+Your favorite color: blue
+
+Question 2.
+Your favorite sport: chest
+
+Question 3.
+Your favorite food: Pho
+
+Student ID:1708131
+Name: Mahendra Mahat
+Question 1.
+Your favorite color: Navy blue
+
+Question 2.
+Your favorite sport: Cricket
+
+Question 3.
+Your favorite food: lamb curry
+------------------------------------------------------------------------------
+Student ID: 1304980
+Name: Hem Dhungel
+
+Question 1.
+Your favorite color: Black
+Question 2.
+Your Favorite sports: Football
+Question 3.
+Your favorite food: Anything tasty and healthy
+------------------------------------------------------------------------------
+Student ID: 1708501
+Name: Soeun Jang
+
+Question 1.
+
+Your favorite color: Green
+=======
+Your favorite color: Black
+
+Question 2.
+Your Favorite sports: Badminton
+Question 3.
+Your favorite food: Anything spicy
+------------------------------------------------------------------------------
+Student ID: 1701663
+Name: Jaakko Nurmi
+
+Question 1.
+Your favorite color: Red
+Question 2.
+Your Favorite sports: Ice Hockey
+Question 3.
+Your favorite food: Anything spicy and hot.
+------------------------------------------------------------------------------
+Student ID: 1708601
+Name:	Sauli TYvi
+
+Question 1:
+Your favourite color: Black
+QUestion 2:
+Your favorite sports: Rugby
+Question 3:
+Your favorite food: Chinese
+------------------------------------------------------------------------------
+Student ID: 1605465
+Name:	Jaya Kumar Bidari
+
+Question 1:
+Your favourite color: red
+QUestion 2:
+Your favorite sports: chess
+Question 3:
+Your favorite food: Lamb and rice.
+-------------------------------------------------------------------------------
+Student ID:1708500
+Name: Kasperi Klaavo
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Cycling
+
+Question 3.
+Your favorite food: Avocadopizza
+-----------------------------------------------------
+Student ID:1602068
+Name: Nico Hairetdin
+Question 1.
+Your favorite color: Sky blue
+
+Question 2.
+Your favorite sport: Swimming
+
+Question 3.
+Your favorite food: Indian
+-----------------------------------------------------
+Student ID:A1600792
+Name: Jari Pentti
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: American Football
+
+Question 3.
+Your favorite food: Pulled oats
+-----------------------------------------------------
+Student ID:1705010
+Name: Jun Jung
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Table Tennis
+
+Question 3.
+Your favorite food: Pizza
+-----------------------------------------------------
+Student ID:matti1511
+Name: Matti Palmen
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Paddling
+
+Question 3.
+Your favorite food: Traditional finnish food
+
+-----------------------------------------------------
+Student ID:1306663
+Name: Sagar Aryal
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Nepalese(Chicken Tikka Masala)
+-----------------------------------------------------
+Student ID:1304950
+Name: Tu Nguyen
+Question 1.
+Your favorite color: Blue, Green
+
+Question 2.
+Your favorite sport: Swimming, Table tennis
+
+Question 3.
+Your favorite food: Asian food in general
+-----------------------------------------------------
+Student ID:1801670
+Name: Niko Torvinen
+Question 1.
+Your favorite color: Steel, Blood, Walnut
+
+Question 2.
+Your favorite sport: Swimming, Hiking
+
+Question 3.
+Your favorite food: Pizza, Soups, Fish and Vodka .\,,/
+-----------------------------------------------------
+=======
+Student ID:1504229
+Name: Sandip Gautam
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Mo:MO
+-----------------------------------------------------
+
+Student ID:1305923
+Name: Manish Das
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Neplese Cuisine
+=======
+Student ID:a1602782
+Name: Kalle Verho
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Billiards
+
+Question 3.
+Your favorite food: French Fries
+-----------------------------------------------------
+Student ID:1305934
+Name: Pawel Kiczko
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Volleyball
+
+Question 3.
+Your favorite food: beans
+-----------------------------------------------------
+Student ID:1304948
+Name: Deepak Bhandari
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Pizza
+-----------------------------------------------------
+Student ID:1708593
+Name: Timo Jokela
+Question 1.
+Your favorite color: Terra
+
+Question 2.
+Your favorite sport: Hiking
+
+Question 3.
+Your favorite food: Karelian stew
+-----------------------------------------------------
+Student ID:a1504542
+Name: Hamza Jalal
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: BBQ Chicken
+-----------------------------------------------------
+Student ID: 1708918
+Name: Daniel Stafford
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Cycling
+
+Question 3.
+Your favorite food: Tacos
+-----------------------------------------------------
+Student ID: 1504211
+Name: Hung Nguyen
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Pizza
+------------------------------------------------------
+Student ID: 1401371 (Laurea student ID)
+Name: Ly Trieu Minh (Minh Ly)
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Swimming
+
+Question 3.
+Your favorite food: Bun bo Hue
+-----------------------------------------------------
+Student ID: 1802994
+Name: Joonas Penttinen
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Icehockey
+
+Question 3.
+Your favorite food: Pizza
+
+-----------------------------------------------------
+Student ID: K4424
+Name: Ujjawal Shrestha
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Momo
+
+-----------------------------------------------------
+Student ID:K8241
+Name: Noora Jokinen
+Question 1.
+Your favorite color: Navy blue
+
+Question 2.
+Your favorite sport: Cycling
+
+Question 3.
+Your favorite food: Burger and fries
+-----------------------------------------------------
+Student ID: none
+Name: Tram Nguyen
+Question 1.
+Your favorite color: Transparent
+
+Question 2.
+Your favorite sport: Swimming
+
+Question 3.
+Your favorite food: Banh Trang Tron
+-----------------------------------------------------
+Student ID:a1703080
+Name: Mariia Muzykantova
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: car racing
+
+Question 3.
+Your favorite food: sea food
+-----------------------------------------------------
+Student ID: 1800717
+Name: Huong Ngo
+Question 1.
+Your favorite color: Pink
+
+Question 2.
+Your favorite sport: Badminton
+Question 3.
+Your favorite food: Ramen
+-----------------------------------------------------
+Student ID: 1802259
+Name: Petri Salo
+Question 1.
+Your favorite color: Purple
+
+Question 2.
+Your favorite sport: Badminton
+
+Question 3.
+Your favorite food: Spaghetti Bolognese
+-----------------------------------------------------
+Student ID: 5084975
+Name: Apostolos Monocholias
+
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: E-sports, fighting sports (MMA, UFC)
+
+Question 3.
+Your favorite food: Gyros
+-----------------------------------------------------
+Student ID:1602383
+Name: Jukka-Pekka Lehto
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Muay Thai
+
+Question 3.
+Your favorite food: Beef(medium) and grilled vegetables
+-----------------------------------------------------
+Student ID:e1401168
+Name: Valid Ahmadi
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Gym
+
+Question 3.
+Your favorite food: Rice and red beans
+-----------------------------------------------------
