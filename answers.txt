@@ -1,6 +1,6 @@
-Number of students who modified this file: 40 students
+Number of students who modified this file: 41 students
 
-Name of the last student who modified this file: Apostolos Monocholias
+Name of the last student who modified this file: Jukka-Pekka Lehto
 
 -----------------------------------------------------
 [Template]
@@ -484,4 +484,15 @@ Your favorite sport: E-sports, fighting sports (MMA, UFC)
 
 Question 3.
 Your favorite food: Gyros
+-----------------------------------------------------
+Student ID:1602383
+Name: Jukka-Pekka Lehto
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Muay Thai
+
+Question 3.
+Your favorite food: Beef(medium) and grilled vegetables
 -----------------------------------------------------
