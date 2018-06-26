@@ -1,6 +1,6 @@
-Number of students who modified this file: 40 students
+Number of students who modified this file: 39 students
 
-Name of the last student who modified this file: Eppu Peltonen
+Name of the last student who modified this file: Petri Salo
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -473,14 +473,3 @@ Question 3.
 Your favorite food: Spaghetti Bolognese
 -----------------------------------------------------
 
-Student ID: 1503160
-Name: Eppu Peltonen
-Question 1.
-Your favorite color: Black
-
-Question 2.
-Your favorite sport: Disc Golf
-
-Question 3.
-Your favorite food: Pizza Margherita
------------------------------------------------------
