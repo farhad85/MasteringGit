@@ -1,6 +1,6 @@
-Number of students who modified this file: 41 students
+Number of students who modified this file: 42 students
 
-Name of the last student who modified this file: Jukka-Pekka Lehto
+Name of the last student who modified this file: Mikko Vinnari
 
 -----------------------------------------------------
 [Template]
@@ -506,4 +506,15 @@ Your favorite sport: Muay Thai
 
 Question 3.
 Your favorite food: Beef(medium) and grilled vegetables
+-----------------------------------------------------
+Student ID:1703144
+Name: Mikko Vinnari
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Makkaraperunat
 -----------------------------------------------------
