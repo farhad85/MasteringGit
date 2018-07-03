@@ -1,6 +1,6 @@
-Number of students who modified this file: 42 students
+Number of students who modified this file: 43 students
 
-Name of the last student who modified this file: Mikko Vinnari
+Name of the last student who modified this file: Alex Jacobs
 
 -----------------------------------------------------
 [Template]
@@ -518,3 +518,14 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: Makkaraperunat
 -----------------------------------------------------
+
+Student ID: alexjac
+Name: Alex Jacobs
+Question 1.
+Your favorite color: Red
+
+Question 2.
+Your favorite sport: Ice-Hockey
+
+Question 3.
+Your favorite food: Hot dogs
