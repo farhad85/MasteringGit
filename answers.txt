@@ -1,6 +1,6 @@
-Number of students who modified this file: 42 students
+Number of students who modified this file: 43 students
 
-Name of the last student who modified this file: Mikko Vinnari
+Name of the last student who modified this file: Julius Saarikko
 
 -----------------------------------------------------
 [Template]
@@ -517,4 +517,16 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Makkaraperunat
+-----------------------------------------------------
+
+-----------------------------------------------------
+Student ID:1601438
+Name: Julius Saarikko
+Question 1.
+Your favorite color: Camo
+
+Question 2.
+Your favorite sport: Ice hockey
+Question 3.
+Your favorite food: Beef fillet steak with garlic potatos
 -----------------------------------------------------
