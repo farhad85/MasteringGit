@@ -1,6 +1,6 @@
-Number of students who modified this file: 42 students
+Number of students who modified this file: 43 students
 
-Name of the last student who modified this file: Mikko Vinnari
+Name of the last student who modified this file: Ilkka Rytkönen
 
 -----------------------------------------------------
 [Template]
@@ -517,4 +517,15 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Makkaraperunat
+-----------------------------------------------------
+Student ID: S704396
+Name: Ilkka Rytkönen
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Formula 1
+
+Question 3.
+Your favorite food: Smoked salmon
 -----------------------------------------------------
