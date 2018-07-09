@@ -1,6 +1,6 @@
-Number of students who modified this file: 42 students
+Number of students who modified this file: 43 students
 
-Name of the last student who modified this file: Mikko Vinnari
+Name of the last student who modified this file: Tuomas Mäkinen
 
 -----------------------------------------------------
 [Template]
@@ -518,3 +518,14 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: Makkaraperunat
 -----------------------------------------------------
+
+Student ID:co1601120
+Name: Tuomas Mäkinen
+Question 1.
+Your favorite color: All dark colors
+
+Question 2.
+Your favorite sport: American Football
+
+Question 3.
+Your favorite food: Pizza Berlusconi from KotiPizza 
