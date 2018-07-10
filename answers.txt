@@ -1,6 +1,6 @@
-Number of students who modified this file: 43 students
+Number of students who modified this file: 44 students
 
-Name of the last student who modified this file: Hassan Maskati
+Name of the last student who modified this file: Juho Pekonen
 
 -----------------------------------------------------
 [Template]
@@ -528,4 +528,15 @@ Your favorite sport: Survival
 
 Question 3.
 Your favorite food: Water
+-----------------------------------------------------
+Student ID: 1502363
+Name: Juho Pekonen
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Lasagnette
 -----------------------------------------------------
