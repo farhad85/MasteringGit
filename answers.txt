@@ -1,6 +1,6 @@
-Number of students who modified this file: 43 students
+﻿Number of students who modified this file: 44 students
 
-Name of the last student who modified this file: Ilkka Rytkönen
+Name of the last student who modified this file: Ville-Pekka Sarkkinen
 
 -----------------------------------------------------
 [Template]
@@ -539,4 +539,15 @@ Your favorite sport: Formula 1
 
 Question 3.
 Your favorite food: Smoked salmon
+-----------------------------------------------------
+Student ID: 1601638
+Name: Ville-Pekka Sarkkinen
+Question 1.
+Your favorite color: Grey
+
+Question 2.
+Your favorite sport: Hockey
+
+Question 3.
+Your favorite food: Lasange
 -----------------------------------------------------
