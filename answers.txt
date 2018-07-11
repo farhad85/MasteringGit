@@ -518,6 +518,17 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: Makkaraperunat
 -----------------------------------------------------
+Student ID:1702658
+Name: Hassan Maskati
+Question 1.
+Your favorite color: Visible Light
+
+Question 2.
+Your favorite sport: Survival
+
+Question 3.
+Your favorite food: Water
+-----------------------------------------------------
 Student ID: S704396
 Name: Ilkka Rytkönen
 Question 1.
