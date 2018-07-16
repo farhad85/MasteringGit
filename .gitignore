@@ -1,3 +1,10 @@
+# .gitignore
+
+# Executable files
 *.exe
+
+# Program Information files
 *.pif
-*.psd 
+
+# Photoshop files
+*.psd
