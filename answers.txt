@@ -1,6 +1,6 @@
-Number of students who modified this file: 44 students
+﻿Number of students who modified this file: 45 students
 
-Name of the last student who modified this file: Juha-Matti Kuusniemi
+Name of the last student who modified this file: Petri Pykäläinen
 
 -----------------------------------------------------
 [Template]
@@ -550,4 +550,15 @@ Your favorite sport: E-sports and motorsports
 
 Question 3.
 Your favorite food: Don't know
+-----------------------------------------------------
+Student ID: 1602438
+Name: Petri Pykäläinen
+Question 1.
+Your favorite color: Red
+
+Question 2.
+Your favorite sport: Volleyball
+
+Question 3.
+Your favorite food: Chicken
 -----------------------------------------------------
