@@ -1,6 +1,6 @@
-Number of students who modified this file: 45 students
+Number of students who modified this file: 46 students
 
-Name of the last student who modified this file: Alassani Fousseni Igodo
+Name of the last student who modified this file: Jonny Ekholm
 
 -----------------------------------------------------
 [Template]
@@ -558,4 +558,15 @@ Your favorite sport: Football and Table Tennis
 
 Question 3.
 Your favorite food: Fufu
+-----------------------------------------------------
+Student ID: 1500375
+Name: Jonny Ekholm
+Question 1.
+Your favorite color: Fluorescent Lime Green
+
+Question 2.
+Your favorite sport: Chessboxing
+
+Question 3.
+Your favorite food: Chia Pudding
 -----------------------------------------------------
