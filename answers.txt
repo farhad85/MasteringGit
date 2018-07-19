@@ -559,3 +559,14 @@ Your favorite sport: Football and Table Tennis
 Question 3.
 Your favorite food: Fufu
 -----------------------------------------------------
+Student ID: 1601948
+Name: MD SAKIB HOSSAIN
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Cricket
+
+Question 3.
+Your favorite food: Biriyani
+-----------------------------------------------------
