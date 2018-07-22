@@ -1,6 +1,6 @@
-Number of students who modified this file: 45 students
+﻿Number of students who modified this file: 46 students
 
-Name of the last student who modified this file: Alassani Fousseni Igodo
+Name of the last student who modified this file: Petri Pykäläinen
 
 -----------------------------------------------------
 [Template]
@@ -558,4 +558,15 @@ Your favorite sport: Football and Table Tennis
 
 Question 3.
 Your favorite food: Fufu
+-----------------------------------------------------
+Student ID: 1602438
+Name: Petri Pykäläinen
+Question 1.
+Your favorite color: Red
+
+Question 2.
+Your favorite sport: Volleyball
+
+Question 3.
+Your favorite food: Chicken
 -----------------------------------------------------
