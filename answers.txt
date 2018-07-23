@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 46 students
+﻿Number of students who modified this file: 47 students
 
-Name of the last student who modified this file: Petri Pykäläinen
+Name of the last student who modified this file: Miia Oksanen
 
 -----------------------------------------------------
 [Template]
@@ -569,4 +569,15 @@ Your favorite sport: Volleyball
 
 Question 3.
 Your favorite food: Chicken
+-----------------------------------------------------
+Student ID: a1704510
+Name: Miia Oksanen
+Question 1.
+Your favorite color: Pink
+
+Question 2.
+Your favorite sport: Walking
+
+Question 3.
+Your favorite food: Strawberries
 -----------------------------------------------------
