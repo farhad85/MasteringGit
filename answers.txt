@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 47 students
+﻿Number of students who modified this file: 48 students
 
-Name of the last student who modified this file: Miia Oksanen
+Name of the last student who modified this file: Miika Möttönen
 
 -----------------------------------------------------
 [Template]
@@ -580,4 +580,15 @@ Your favorite sport: Walking
 
 Question 3.
 Your favorite food: Strawberries
+-----------------------------------------------------
+Student ID: K4871
+Name: Miika Möttönen
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Fish
 -----------------------------------------------------
