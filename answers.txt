@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 48 students
+﻿Number of students who modified this file: 49 students
 
-Name of the last student who modified this file: Miika Möttönen
+Name of the last student who modified this file: Jyri Isomäki
 
 -----------------------------------------------------
 [Template]
@@ -591,4 +591,15 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Fish
+-----------------------------------------------------
+Student ID: 1503154
+Name: Jyri Isomäki
+Question 1.
+Your favorite color: Red
+
+Question 2.
+Your favorite sport: Discgolf
+
+Question 3.
+Your favorite food: Pizza
 -----------------------------------------------------
