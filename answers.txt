@@ -598,8 +598,8 @@ Question 1.
 Your favorite color: Green
 
 Question 2.
-Your favorite sport: Hockey
+Your favorite sport: Mölkky
 
 Question 3.
-Your favorite food: Meatballs
+Your favorite food: Grandmothers meatballs and smashed potatoes
 -----------------------------------------------------
