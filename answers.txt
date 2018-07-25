@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 48 students
+﻿Number of students who modified this file: 49 students
 
-Name of the last student who modified this file: Miika Möttönen
+Name of the last student who modified this file: Antti Pyhäluoto
 
 -----------------------------------------------------
 [Template]
@@ -591,4 +591,15 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Fish
+-----------------------------------------------------
+Student ID: t5pyan00
+Name: Antti Pyhäluoto
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Hockey
+
+Question 3.
+Your favorite food: Meatballs
 -----------------------------------------------------
