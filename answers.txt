@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 49 students
+﻿Number of students who modified this file: 50 students
 
-Name of the last student who modified this file: Antti Pyhäluoto
+Name of the last student who modified this file: Eyno Perevodchikov
 
 -----------------------------------------------------
 [Template]
@@ -602,4 +602,15 @@ Your favorite sport: Hockey
 
 Question 3.
 Your favorite food: Meatballs
+-----------------------------------------------------
+Student ID:1500862
+Name: Eyno Perevodchikov
+Question 1.
+Your favorite color: Impossible color
+
+Question 2.
+Your favorite sport: Chess 
+
+Question 3.
+Your favorite food: Fish
 -----------------------------------------------------
