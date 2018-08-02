@@ -603,3 +603,14 @@ Your favorite sport: Hockey
 Question 3.
 Your favorite food: Meatballs
 -----------------------------------------------------
+Student ID: 1302141	
+Name: Toni Ryynänen
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Ice Hockey
+
+Question 3.
+Your favorite food: Sushi
+-----------------------------------------------------
