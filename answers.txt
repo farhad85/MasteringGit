@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 50 students
+﻿Number of students who modified this file: 51 students
 
-Name of the last student who modified this file: Henna Hietamäki
+Name of the last student who modified this file: Toni Ryynänen
 
 -----------------------------------------------------
 [Template]
@@ -624,3 +624,14 @@ Your favorite sport: Badminton
 
 Question 3.
 Your favorite food: Sweet potato soup
+-----------------------------------------------------
+Student ID: 1302141
+Name: Toni Ryynänen
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Ice Hockey
+
+Question 3.
+Your favorite food: Sushi
