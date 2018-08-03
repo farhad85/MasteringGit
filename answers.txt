@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 51 students
+Number of students who modified this file: 52 students
 
-Name of the last student who modified this file: Toni Ryynänen
+Name of the last student who modified this file: Bisu Thapa
 
 -----------------------------------------------------
 [Template]
@@ -635,3 +635,15 @@ Your favorite sport: Ice Hockey
 
 Question 3.
 Your favorite food: Sushi
+-----------------------------------------------------
+Student ID: bit14sn
+Name: Bisu Thapa
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: football
+
+Question 3.
+Your favorite food: Momo
+-----------------------------------------------------
