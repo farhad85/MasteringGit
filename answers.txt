@@ -647,3 +647,14 @@ Your favorite sport: football
 Question 3.
 Your favorite food: Momo
 -----------------------------------------------------
+Student ID: 1400162
+Name: Arttu Huurinainen
+Question 1.
+Your favorite color: Dark purple
+
+Question 2.
+Your favorite sport: Ping.. Pong.
+
+Question 3.
+Your favorite food: Spaghetti Bolognese
+-----------------------------------------------------
