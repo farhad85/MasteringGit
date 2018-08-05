@@ -1,6 +1,6 @@
-Number of students who modified this file: 52 students
+Number of students who modified this file: 53 students
 
-Name of the last student who modified this file: Bisu Thapa
+Name of the last student who modified this file: Eero Vakiparta
 
 -----------------------------------------------------
 [Template]
@@ -657,4 +657,15 @@ Your favorite sport: Ping.. Pong.
 
 Question 3.
 Your favorite food: Spaghetti Bolognese
+-----------------------------------------------------
+Student ID: 1701791
+Name: Eero Vakiparta
+Question 1.
+Your favorite color: Pink
+
+Question 2.
+Your favorite sport: Kayaking
+
+Question 3.
+Your favorite food: Leftover pizza
 -----------------------------------------------------
