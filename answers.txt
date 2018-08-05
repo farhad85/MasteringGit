@@ -659,13 +659,13 @@ Question 3.
 Your favorite food: Spaghetti Bolognese
 -----------------------------------------------------
 Student ID: 1701791
-Name: Eero Vakiparta
+Name:EeroVäkiparta
 Question 1.
-Your favorite color: Pink
+Your favorite color: Orange
 
 Question 2.
-Your favorite sport: Kayaking
+Your favorite sport: Hiking
 
 Question 3.
-Your favorite food: Leftover pizza
+Your favorite food: Tasty pizza
 -----------------------------------------------------
