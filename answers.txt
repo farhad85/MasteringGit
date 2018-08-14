@@ -1,6 +1,6 @@
-Number of students who modified this file: 53 students
+Number of students who modified this file: 54 students
 
-Name of the last student who modified this file: Eero Vakiparta
+Name of the last student who modified this file: Ville Lehti
 
 -----------------------------------------------------
 [Template]
@@ -668,4 +668,15 @@ Your favorite sport: Kayaking
 
 Question 3.
 Your favorite food: Leftover pizza
+-----------------------------------------------------
+Student ID: 1702630
+Name: Ville Lehti
+Question 1.
+Your favorite color: White
+
+Question 2.
+Your favorite sport: Hunting
+
+Question 3.
+Your favorite food: Meat
 -----------------------------------------------------
