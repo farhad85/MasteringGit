@@ -1,6 +1,6 @@
-Number of students who modified this file: 53 students
+﻿Number of students who modified this file: 54 students
 
-Name of the last student who modified this file: Eero Vakiparta
+Name of the last student who modified this file: Sirkku Heija
 
 -----------------------------------------------------
 [Template]
@@ -669,3 +669,14 @@ Your favorite sport: Kayaking
 Question 3.
 Your favorite food: Leftover pizza
 -----------------------------------------------------
+[Template]
+Student ID:1704496
+Name: Sirkku Heija
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Sleeping
+
+Question 3.
+Your favorite food: Dumplings
