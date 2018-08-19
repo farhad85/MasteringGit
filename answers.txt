@@ -1,6 +1,6 @@
-Number of students who modified this file: 53 students
+﻿Number of students who modified this file: 54 students
 
-Name of the last student who modified this file: Eero Vakiparta
+Name of the last student who modified this file: Tomi Tolvanen
 
 -----------------------------------------------------
 [Template]
@@ -668,4 +668,15 @@ Your favorite sport: Kayaking
 
 Question 3.
 Your favorite food: Leftover pizza
+-----------------------------------------------------
+Student ID: S704401	
+Name: Tomi Tolvanen
+Question 1.
+Your favorite color: Red
+
+Question 2.
+Your favorite sport: Tennis
+
+Question 3.
+Your favorite food: Meatballs
 -----------------------------------------------------
