@@ -669,3 +669,13 @@ Your favorite sport: Kayaking
 Question 3.
 Your favorite food: Leftover pizza
 -----------------------------------------------------
+Student ID: S698927
+Name: Mika Ovaskainen
+Question 1.
+Your favorite color: White
+
+Question 2.
+Your favorite sport: E-sports
+
+Question 3.
+Your favorite food: Hotwings
