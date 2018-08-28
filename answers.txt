@@ -1,6 +1,6 @@
-Number of students who modified this file: 53 students
+Number of students who modified this file: 54 students
 
-Name of the last student who modified this file: Eero Vakiparta
+Name of the last student who modified this file: Juan Serrano
 
 -----------------------------------------------------
 [Template]
@@ -668,4 +668,15 @@ Your favorite sport: Kayaking
 
 Question 3.
 Your favorite food: Leftover pizza
+-----------------------------------------------------
+Student ID:ojuse011
+Name: Juan Serrano
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Lacrosse
+
+Question 3.
+Your favorite food: Sushi
 -----------------------------------------------------
