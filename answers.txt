@@ -1,6 +1,6 @@
-Number of students who modified this file: 54 students
+﻿Number of students who modified this file: 55 students
 
-Name of the last student who modified this file: Juan Serrano
+Name of the last student who modified this file: Ville Pykälä
 
 -----------------------------------------------------
 [Template]
@@ -679,4 +679,15 @@ Your favorite sport: Lacrosse
 
 Question 3.
 Your favorite food: Sushi
+-----------------------------------------------------
+Student ID:1602381
+Name: Ville Pykälä
+Question 1.
+Your favorite color: Orange
+
+Question 2.
+Your favorite sport: Ice hockey
+
+Question 3.
+Your favorite food: Kebab
 -----------------------------------------------------
