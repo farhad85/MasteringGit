@@ -680,3 +680,14 @@ Your favorite sport: Lacrosse
 Question 3.
 Your favorite food: Sushi
 -----------------------------------------------------
+Student ID:1404065
+Name: Jani Havukainen
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Cycling
+
+Question 3.
+Your favorite food: Lasagne
+-----------------------------------------------------
