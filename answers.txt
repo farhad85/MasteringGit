@@ -1,6 +1,6 @@
-Number of students who modified this file: 54 students
+Number of students who modified this file: 55 students
 
-Name of the last student who modified this file: Juan Serrano
+Name of the last student who modified this file: Santtu Erich
 
 -----------------------------------------------------
 [Template]
@@ -679,4 +679,15 @@ Your favorite sport: Lacrosse
 
 Question 3.
 Your favorite food: Sushi
+-----------------------------------------------------
+Student ID:1807740
+Name: Santtu Erich
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Rollerball
+
+Question 3.
+Your favorite food: Hernesoppa
 -----------------------------------------------------
