@@ -1,6 +1,6 @@
-Number of students who modified this file: 54 students
+Number of students who modified this file: 55 students
 
-Name of the last student who modified this file: Juan Serrano
+Name of the last student who modified this file: Nhan Nguyen
 
 -----------------------------------------------------
 [Template]
@@ -680,6 +680,7 @@ Your favorite sport: Lacrosse
 Question 3.
 Your favorite food: Sushi
 -----------------------------------------------------
+<<<<<<< HEAD
 Student ID:1404065
 Name: Jani Havukainen
 Question 1.
@@ -690,4 +691,16 @@ Your favorite sport: Cycling
 
 Question 3.
 Your favorite food: Lasagne
+=======
+Student ID: t4ngth00
+Name: Nhan Nguyen
+Question 1.
+Your favorite color: Chartreuse
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Pho
+>>>>>>> 1aa71d95239ba5e0ce00f63f2ca43789523f369d
 -----------------------------------------------------
