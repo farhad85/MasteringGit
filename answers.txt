@@ -1,4 +1,4 @@
-Number of students who modified this file: 55 students
+﻿Number of students who modified this file: 55 students
 
 Name of the last student who modified this file: Nhan Nguyen
 
@@ -703,4 +703,15 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: Pho
 >>>>>>> 1aa71d95239ba5e0ce00f63f2ca43789523f369d
+-----------------------------------------------------
+Student ID:saraalka
+Name: Sara alkafri
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Swimming
+
+Question 3.
+Your favorite food: Hamburger
 -----------------------------------------------------
