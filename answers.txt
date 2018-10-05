@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 55 students
+﻿Number of students who modified this file: 56 students
 
-Name of the last student who modified this file: Petri Palmu
+Name of the last student who modified this file: Md Manzurul Haque
 
 -----------------------------------------------------
 [Template]
@@ -726,3 +726,13 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: Pizza
 -----------------------------------------------------
+Student ID:1102147
+Name: Md Manzurul haque
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Cricket
+
+Question 3.
+Your favorite food: Biriyani
