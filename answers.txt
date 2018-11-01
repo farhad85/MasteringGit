@@ -726,3 +726,13 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: Pizza
 -----------------------------------------------------
+Student ID:1300068
+Name: Md. Abu Naim Heera
+Question 1.
+Your favorite color: Purple
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Pizza
+------------------------------------------------------
