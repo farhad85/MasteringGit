@@ -736,3 +736,15 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: Pizza
 ------------------------------------------------------
+
+Student ID:1800710
+Name: Aasia Dirie
+Question 1.
+Your favorite color: grey
+
+Question 2.
+Your favorite sport: Swimming
+
+Question 3.
+Your favorite food: bariis ja hilib
+------------------------------------------------------
