@@ -1,4 +1,4 @@
-﻿Number of students who modified this file: 55 students
+Number of students who modified this file: 55 students
 
 Name of the last student who modified this file: Petri Palmu
 
@@ -597,6 +597,7 @@ Name: Antti Pyhäluoto
 Question 1.
 Your favorite color: Green
 
+
 Question 2.
 Your favorite sport: Hockey
 
@@ -735,4 +736,17 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Pizza
+-----------------------------------------------------
+=======
+Student ID:1603430
+Name: Anh Nguyen
+Question 1.
+Your favorite color: White
+
+Question 2.
+Your favorite sport: Taekwondo
+
+Question 3.
+Your favorite food: Pho
+-----------------------------------------------------
 ------------------------------------------------------
