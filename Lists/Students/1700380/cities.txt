@@ -5,3 +5,5 @@ Tehran, Iran
 Giza, Egypt
 Olympia, Greece
 Colossus, Rhodes
+Oslo, Norway
+California, USA
