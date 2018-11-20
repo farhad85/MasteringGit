@@ -1,6 +1,6 @@
-Number of students who modified this file: 54 students
+﻿Number of students who modified this file: 57 students
 
-Name of the last student who modified this file: Juan Serrano
+Name of the last student who modified this file: Ville Hietanen
 
 -----------------------------------------------------
 [Template]
@@ -680,6 +680,7 @@ Your favorite sport: Lacrosse
 Question 3.
 Your favorite food: Sushi
 -----------------------------------------------------
+<<<<<<< HEAD
 Student ID:1404065
 Name: Jani Havukainen
 Question 1.
@@ -690,4 +691,72 @@ Your favorite sport: Cycling
 
 Question 3.
 Your favorite food: Lasagne
+=======
+Student ID: t4ngth00
+Name: Nhan Nguyen
+Question 1.
+Your favorite color: Chartreuse
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Pho
+>>>>>>> 1aa71d95239ba5e0ce00f63f2ca43789523f369d
 -----------------------------------------------------
+Student ID:saraalka
+Name: Sara alkafri
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Swimming
+
+Question 3.
+Your favorite food: Hamburger
+-----------------------------------------------------
+Student ID:Petrimus
+Name: Petri Palmu
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Pizza
+-----------------------------------------------------
+Student ID:1300068
+Name: Md. Abu Naim Heera
+Question 1.
+Your favorite color: Purple
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Pizza
+------------------------------------------------------
+Student ID:1700380
+Name: Lassi Strömberg
+
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Pad Thai
+-----------------------------------------------------
+Student ID:206602
+Name: Ville Hietanen
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Rugby
+
+Question 3.
+Your favorite food: Hamburger
+-----------------------------------------------------
+
