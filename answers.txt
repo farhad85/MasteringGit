@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 56 students
+﻿Number of students who modified this file: 57 students
 
-Name of the last student who modified this file: Lassi Strömberg
+Name of the last student who modified this file: Ville Hietanen
 
 -----------------------------------------------------
 [Template]
@@ -747,3 +747,16 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Pad Thai
+-----------------------------------------------------
+Student ID:206602
+Name: Ville Hietanen
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Rugby
+
+Question 3.
+Your favorite food: Hamburger
+-----------------------------------------------------
+
