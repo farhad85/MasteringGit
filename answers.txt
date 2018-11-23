@@ -760,3 +760,14 @@ Question 3.
 Your favorite food: Hamburger
 -----------------------------------------------------
 
+Student ID:1808804
+Name: Visa Hari
+Question 1.
+Your favorite color: Red
+
+Question 2.
+Your favorite sport: Cricket
+
+Question 3.
+Your favorite food: Pizza
+-----------------------------------------------------
