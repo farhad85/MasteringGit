@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 57 students
+﻿Number of students who modified this file: 58 students
 
-Name of the last student who modified this file: Ville Hietanen
+Name of the last student who modified this file: Neil Rice
 
 -----------------------------------------------------
 [Template]
@@ -771,3 +771,14 @@ Your favorite sport: Cricket
 Question 3.
 Your favorite food: Pizza
 -----------------------------------------------------
+
+Student ID:e1300528
+Name: Neil Rice
+Question 1.
+Your favorite color: Yellow
+
+Question 2.
+Your favorite sport: Climbing
+
+Question 3.
+Your favorite food: Curry
