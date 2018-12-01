@@ -771,3 +771,16 @@ Your favorite sport: Cricket
 Question 3.
 Your favorite food: Pizza
 -----------------------------------------------------
+
+Student ID:Stanley Amiedu
+Name: Stanley Festus
+Question 1.
+Your favorite color: Yellow
+
+Question 2.
+Your favorite sport: Football / Soccer
+
+Question 3.
+Your favorite food: Rice and Chicken
+
+------------------------------------------------------------
