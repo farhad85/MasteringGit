@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 57 students
+﻿Number of students who modified this file: 58 students
 
-Name of the last student who modified this file: Ville Hietanen
+Name of the last student who modified this file: Toni Hymander
 
 -----------------------------------------------------
 [Template]
@@ -782,5 +782,18 @@ Your favorite sport: Football / Soccer
 
 Question 3.
 Your favorite food: Rice and Chicken
+
+------------------------------------------------------------
+
+Student ID: hymandertm
+Name: Toni Hymander
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: E-sports, Ice hockey
+
+Question 3.
+Your favorite food: Can't really name one. Preferably something with a little flavor.
 
 ------------------------------------------------------------
