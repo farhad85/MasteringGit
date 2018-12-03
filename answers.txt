@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 57 students
+﻿Number of students who modified this file: 57 + 1 = 58 students
 
-Name of the last student who modified this file: Ville Hietanen
+Name of the last student who modified this file: Tuyet Tran
 
 -----------------------------------------------------
 [Template]
@@ -782,5 +782,18 @@ Your favorite sport: Football / Soccer
 
 Question 3.
 Your favorite food: Rice and Chicken
+
+------------------------------------------------------------
+
+Student ID: 1809477
+Name: Tuyet Tran
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Tennis
+
+Question 3.
+Your favorite food: Vietnamese Noodle
 
 ------------------------------------------------------------
