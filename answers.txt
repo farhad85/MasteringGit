@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 57 + 1 = 58 students
+﻿Number of students who modified this file: 58 + 1 = 59 students
 
-Name of the last student who modified this file: Tuyet Tran
+Name of the last student who modified this file: Egor Rubinov
 
 -----------------------------------------------------
 [Template]
@@ -795,5 +795,18 @@ Your favorite sport: Tennis
 
 Question 3.
 Your favorite food: Vietnamese Noodle
+
+------------------------------------------------------------
+
+Student ID: 1601434
+Name: Egor Rubinov
+Question 1.
+Your favorite color: Purple
+
+Question 2.
+Your favorite sport: Badminton
+
+Question 3.
+Your favorite food: Apples
 
 ------------------------------------------------------------
