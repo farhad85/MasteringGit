@@ -797,3 +797,13 @@ Question 3.
 Your favorite food: Vietnamese Noodle
 
 ------------------------------------------------------------
+Student ID: hectorm
+Name: Héctor Gabriel Suero Martínez
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Tennis
+
+Question 3.
+Your favorite food: Asian Cuisine
