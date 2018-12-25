@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 57 + 1 = 58 students
+﻿Number of students who modified this file: 70 students
 
-Name of the last student who modified this file: Tuyet Tran
+Name of the last student who modified this file: Héctor Gabriel Suero Martínez
 
 -----------------------------------------------------
 [Template]
