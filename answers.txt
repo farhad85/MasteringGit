@@ -807,3 +807,15 @@ Your favorite sport: Tennis
 
 Question 3.
 Your favorite food: Asian Cuisine
+
+-----------------------------------------------------
+Student ID: 1602926
+Name: Wikkee Laugesen
+Question 1.
+Your favorite color: White
+
+Question 2.
+Your favorite sport: eSport
+
+Question 3.
+Your favorite food: Thai food
