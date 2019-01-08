@@ -5,3 +5,6 @@ Lima, Peru
 Perth, Australia
 Los Angeles, USA
 Tehran, Iran
+// some more places here!
+Turku, Finland
+Stockholm, Sweden
