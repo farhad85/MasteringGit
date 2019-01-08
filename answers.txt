@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 57 + 1 = 58 students
+﻿Number of students who modified this file: 58 + 1 = 59 students
 
-Name of the last student who modified this file: Tuyet Tran
+Name of the last student who modified this file: Pekka Korhonen
 
 -----------------------------------------------------
 [Template]
@@ -819,3 +819,16 @@ Your favorite sport: eSport
 
 Question 3.
 Your favorite food: Thai food
+-----------------------------------------------------
+[Template]
+Student ID:HH1803844
+Name: Pekka Korhonen
+
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Ice Hockey
+
+Question 3.
+Your favorite food: Pizza!
