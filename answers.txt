@@ -832,3 +832,15 @@ Your favorite sport: Ice Hockey
 
 Question 3.
 Your favorite food: Pizza!
+
+Student ID: 1803395
+Name: Voitto Terrihauta
+
+Question 1:
+Your favorite color: Gray
+
+Question 2: 
+Your favorite sport: Volleyball
+
+Question 3: 
+Your favorite food: French fries 

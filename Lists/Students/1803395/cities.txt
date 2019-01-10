@@ -1,0 +1,5 @@
+Added cities: Helsinki, Suomi
+	      Lontoo, Englanti
+	      Pariisi, Ranska
+	      Rooma, Italia
+	      Teheran, Iran
