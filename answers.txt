@@ -1,6 +1,6 @@
 ﻿Number of students who modified this file: 58 + 1 = 59 students
 
-Name of the last student who modified this file: Pekka Korhonen
+Name of the last student who modified this file: Minh Hoang Tran
 
 -----------------------------------------------------
 [Template]
@@ -843,4 +843,17 @@ Question 2:
 Your favorite sport: Volleyball
 
 Question 3: 
-Your favorite food: French fries 
+Your favorite food: French fries
+-----------------------------------------------------
+Student ID: 1802843
+Name: Minh Hoang Tran
+
+Question 1.
+Your favorite color: Silver
+
+Question 2.
+Your favorite sport: Soccer
+
+Question 3.
+Your favorite food: Sea Foods
+----------------------------------------------------- 
