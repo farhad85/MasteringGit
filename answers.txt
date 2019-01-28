@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 58 + 1 = 59 students
+﻿Number of students who modified this file: 59 + 1 = 60 students
 
-Name of the last student who modified this file: Aleksandra Löytäinen
+Name of the last student who modified this file: Nita Correa
 
 -----------------------------------------------------
 [Template]
@@ -819,3 +819,14 @@ Your favorite sport: Krav Maga
 
 Question 3.
 Your favorite food: Pizza
+------------------------------------------------------------
+Student ID: a1600540
+Name: Nita Correa
+Question 1.
+Your favorite color: Purple
+
+Question 2.
+Your favorite sport: Winter sports
+
+Question 3.
+Your favorite food: Sushi
