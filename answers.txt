@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 58 + 1 = 59 students
+﻿Number of students who modified this file: 59 + 1 = 60 students
 
-Name of the last student who modified this file: Pekka Korhonen
+Name of the last student who modified this file: Sarianna Silvonen
 
 -----------------------------------------------------
 [Template]
@@ -844,3 +844,16 @@ Your favorite sport: Volleyball
 
 Question 3: 
 Your favorite food: French fries 
+--------------------------------------------------
+Student ID: a1700433
+Name: Sarianna Silvonen
+
+Question 1:
+Your favorite color: Turquoise
+
+Question 2: 
+Your favorite sport: Walking
+
+Question 3: 
+Your favorite food: Pizza 
+
