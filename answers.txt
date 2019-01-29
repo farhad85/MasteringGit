@@ -680,7 +680,7 @@ Your favorite sport: Lacrosse
 Question 3.
 Your favorite food: Sushi
 -----------------------------------------------------
-<<<<<<< HEAD
+
 Student ID:1404065
 Name: Jani Havukainen
 Question 1.
@@ -702,7 +702,7 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Pho
->>>>>>> 1aa71d95239ba5e0ce00f63f2ca43789523f369d
+
 -----------------------------------------------------
 Student ID:saraalka
 Name: Sara alkafri
