@@ -856,4 +856,16 @@ Your favorite sport: Walking
 
 Question 3: 
 Your favorite food: Pizza 
+--------------------------------------------------
+Student ID: 1903224
+Name: Omar Benchbana
+
+Question 1:
+Your favorite color: Yellow
+
+Question 2: 
+Your favorite sport: Swimming
+
+Question 3: 
+Your favorite food: Kebab 
 
