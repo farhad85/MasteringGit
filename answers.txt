@@ -1,4 +1,4 @@
-﻿Number of students who modified this file: 59 + 1 = 60 students
+Number of students who modified this file: 59 + 1 = 60 students
 
 Name of the last student who modified this file: Sarianna Silvonen
 
@@ -857,3 +857,15 @@ Your favorite sport: Walking
 Question 3: 
 Your favorite food: Pizza 
 
+--------------------------------------------------
+Student ID: tanglinh
+Name: Tang Linh
+
+Question 1:
+Your favorite color: Blue
+
+Question 2: 
+Your favorite sport: Walking
+
+Question 3: 
+Your favorite food: Noodle
