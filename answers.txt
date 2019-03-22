@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 59 + 1 = 60 students
+﻿Number of students who modified this file: 60 + 1 = 61 students
 
-Name of the last student who modified this file: Sarianna Silvonen
+Name of the last student who modified this file: Juha Koski
 
 -----------------------------------------------------
 [Template]
@@ -856,4 +856,28 @@ Your favorite sport: Walking
 
 Question 3: 
 Your favorite food: Pizza 
+
+Student ID:1305914
+Name: Parbat Thakur
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: MOMO
+-----------------------------------------------------
+
+Student ID: 1804770
+Name: Juha Koski
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Fish
+-----------------------------------------------------
 
