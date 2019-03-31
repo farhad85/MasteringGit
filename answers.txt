@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 60 + 1 = 61 students
+﻿Number of students who modified this file: 61 + 1 = 62 students
 
-Name of the last student who modified this file: Juha Koski
+Name of the last student who modified this file: Lan Nguyen
 
 -----------------------------------------------------
 [Template]
@@ -881,3 +881,13 @@ Question 3.
 Your favorite food: Pizza
 -----------------------------------------------------
 
+Student ID: 1504005
+Name: Lan Nguyen
+Question 1.
+Your favorite color: Purple
+
+Question 2.
+Your favorite sport: Swimming
+
+Question 3.
+Your favorite food: Pizza
