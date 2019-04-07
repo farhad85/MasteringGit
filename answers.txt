@@ -880,4 +880,15 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: Pizza
 -----------------------------------------------------
+Student ID: pekko.sams
+Name: Pekko Sams
+Question 1.
+Your favorite color: earthy colours
+
+Question 2.
+Your favorite sport: Aikido
+
+Question 3.
+Your favorite food: Lembas
+-----------------------------------------------------
 
