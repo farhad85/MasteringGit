@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 62 + 1 = 63 students
+﻿Number of students who modified this file: 61 + 1 = 62 students
 
-Name of the last student who modified this file: Mika Vahlberg
+Name of the last student who modified this file: Pekko Sams
 
 -----------------------------------------------------
 [Template]
@@ -890,16 +890,5 @@ Your favorite sport: Aikido
 
 Question 3.
 Your favorite food: Lembas
------------------------------------------------------
-Student ID: vami67	
-Name: Mika Vahlberg
-Question 1.
-Your favorite color: Green
-
-Question 2.
-Your favorite sport: Walking
-
-Question 3.
-Your favorite food: Salad
 -----------------------------------------------------
 
