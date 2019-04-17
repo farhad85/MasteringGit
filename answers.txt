@@ -1,6 +1,6 @@
 ﻿Number of students who modified this file: 63 + 1 = 64 students
 
-Name of the last student who modified this file: Samir Boudissa
+Name of the last student who modified this file: Juha Paananen 
 
 -----------------------------------------------------
 [Template]
@@ -912,3 +912,15 @@ Your favorite sport: Kickboxing
 
 Question 3.
 Your favorite food: Pizza
+-----------------------------------------------------
+Student ID:
+Name: Juha Paananen
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: MOMO
+-----------------------------------------------------
