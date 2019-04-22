@@ -1,0 +1,21 @@
+Omat vastaukset, koko lista on sit siellä lists\students\eijap001 alla.  
+Student ID:
+
+Name: Eija Pohjansaari
+
+Question 1.
+
+Your favorite color: Red
+
+
+
+Question 2.
+
+Your favorite sport: Savate, boxing, kickboxing
+
+
+
+Question 3.
+
+Your favorite food: Anything spicy and vegetarian
+
