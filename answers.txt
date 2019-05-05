@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 63 + 1 = 64 students
+﻿Number of students who modified this file: 64 + 1 = 65 students
 
-Name of the last student who modified this file: Juha Paananen 
+Name of the last student who modified this file: Svetlana Kargina 
 
 -----------------------------------------------------
 [Template]
@@ -923,4 +923,15 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: MOMO
+-----------------------------------------------------
+Student ID: 1809688
+Name: Svetlana Kargina
+Question 1.
+Your favorite color: Orange
+
+Question 2.
+Your favorite sport: Swimming
+
+Question 3.
+Your favorite food: pizza
 -----------------------------------------------------
