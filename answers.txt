@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 63 + 1 = 64 students
+Number of students who modified this file: 64 + 1 = 64 students
 
-Name of the last student who modified this file: Juha Paananen 
+Name of the last student who modified this file: Gleb Tishchenko 
 
 -----------------------------------------------------
 [Template]
@@ -924,3 +924,13 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: MOMO
 -----------------------------------------------------
+Student ID:
+Name: Gleb Tishchenko
+Question 1.
+Your favorite color: Pink
+
+Question 2.
+Your favorite sport: Jujitsu
+
+Question 3.
+Your favorite food: dumplings
