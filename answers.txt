@@ -1,6 +1,6 @@
-Number of students who modified this file: 64 + 1 = 65 students
+﻿Number of students who modified this file: 65 + 1 = 66 students
 
-Name of the last student who modified this file: Gleb Tishchenko 
+Name of the last student who modified this file: Eija Pohjansaari 
 
 -----------------------------------------------------
 [Template]
@@ -924,6 +924,7 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: MOMO
 -----------------------------------------------------
+
 Student ID:
 Name: Gleb Tishchenko
 Question 1.
@@ -934,3 +935,14 @@ Your favorite sport: Jujitsu
 
 Question 3.
 Your favorite food: plenty o' dumplings
+----------------------------------------------------
+StudentID:
+Name: Eija Pohjansaari
+Question 1.
+Your favourite color: Red
+
+Question 2.
+Your favourite sport: Mixed Martial Arts
+
+Question 3.
+Your favourite food: Seafood 
