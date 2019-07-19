@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 65 + 1 = 66 students
+﻿Number of students who modified this file: 66 + 1 = 67 students
 
-Name of the last student who modified this file: Eija Pohjansaari 
+Name of the last student who modified this file: Juhani Halkola 
 
 -----------------------------------------------------
 [Template]
@@ -946,3 +946,15 @@ Your favourite sport: Mixed Martial Arts
 
 Question 3.
 Your favourite food: Seafood 
+----------------------------------------------------
+StudentID: 1804293
+Name: Juhani Halkola
+Question 1.
+Your favourite color: Black
+
+Question 2.
+Your favourite sport: Frisbeegolf
+
+Question 3.
+Your favourite food: Palak Paneer 
+----------------------------------------------------
