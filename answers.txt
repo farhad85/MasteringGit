@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 66 + 1 = 67 students
+﻿Number of students who modified this file: 67 + 1 = 68 students
 
-Name of the last student who modified this file: Juhani Halkola 
+Name of the last student who modified this file: Kritesh Raj Raut
 
 -----------------------------------------------------
 [Template]
@@ -957,4 +957,15 @@ Your favourite sport: Frisbeegolf
 
 Question 3.
 Your favourite food: Palak Paneer 
+----------------------------------------------------
+StudentID: 1601850
+Name: Kritesh Raj Raut
+Question 1.
+Your favourite color: Black
+
+Question 2.
+Your favourite sport: Football
+
+Question 3.
+Your favourite food: Chicken Tikka Masala
 ----------------------------------------------------
