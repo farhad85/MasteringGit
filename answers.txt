@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 66 + 1 = 67 students
+﻿Number of students who modified this file: 67 + 1 = 68 students
 
-Name of the last student who modified this file: Juhani Halkola 
+Name of the last student who modified this file: Kimmo Mikonranta
 
 -----------------------------------------------------
 [Template]
@@ -839,11 +839,11 @@ Name: Voitto Terrihauta
 Question 1:
 Your favorite color: Gray
 
-Question 2: 
+Question 2:
 Your favorite sport: Volleyball
 
-Question 3: 
-Your favorite food: French fries 
+Question 3:
+Your favorite food: French fries
 --------------------------------------------------
 Student ID: a1700433
 Name: Sarianna Silvonen
@@ -851,11 +851,11 @@ Name: Sarianna Silvonen
 Question 1:
 Your favorite color: Turquoise
 
-Question 2: 
+Question 2:
 Your favorite sport: Walking
 
-Question 3: 
-Your favorite food: Pizza 
+Question 3:
+Your favorite food: Pizza
 
 Student ID:1305914
 Name: Parbat Thakur
@@ -891,7 +891,7 @@ Your favorite sport: Aikido
 Question 3.
 Your favorite food: Lembas
 -----------------------------------------------------
-Student ID: vami67	
+Student ID: vami67
 Name: Mika Vahlberg
 Question 1.
 Your favorite color: Green
@@ -902,7 +902,7 @@ Your favorite sport: Walking
 Question 3.
 Your favorite food: Salad
 -----------------------------------------------------
-Student ID: samirboudissa1994	
+Student ID: samirboudissa1994
 Name: Samir Boudissa
 Question 1.
 Your favorite color: Orange
@@ -945,7 +945,7 @@ Question 2.
 Your favourite sport: Mixed Martial Arts
 
 Question 3.
-Your favourite food: Seafood 
+Your favourite food: Seafood
 ----------------------------------------------------
 StudentID: 1804293
 Name: Juhani Halkola
@@ -956,5 +956,16 @@ Question 2.
 Your favourite sport: Frisbeegolf
 
 Question 3.
-Your favourite food: Palak Paneer 
+Your favourite food: Palak Paneer
+----------------------------------------------------
+StudentID: kmikon
+Name: Kimmo Mikonranta
+Question 1.
+Your favourite color: Blue
+
+Question 2.
+Your favourite sport: Football
+
+Question 3.
+Your favourite food: Fish
 ----------------------------------------------------
