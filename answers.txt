@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 66 + 1 = 67 students
+﻿Number of students who modified this file: 67 + 1 = 68 students
 
-Name of the last student who modified this file: Juhani Halkola 
+Name of the last student who modified this file: Tapio Hietanen 
 
 -----------------------------------------------------
 [Template]
@@ -958,3 +958,15 @@ Your favourite sport: Frisbeegolf
 Question 3.
 Your favourite food: Palak Paneer 
 ----------------------------------------------------
+StudentID:Tapsa67
+Name: Tapio Hietanen
+Question 1.
+Your favourite color: Blue
+
+Question 2.
+Your favourite sport: watching F1
+
+Question 3.
+Your favourite food: steak
+----------------------------------------------------
+
