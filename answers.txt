@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 67 + 1 = 68 students
+﻿Number of students who modified this file: 68 + 1 = 69 students
 
-Name of the last student who modified this file: Tapio Hietanen 
+Name of the last student who modified this file: Juha-Matti Äyväri
 
 -----------------------------------------------------
 [Template]
@@ -969,4 +969,14 @@ Your favourite sport: watching F1
 Question 3.
 Your favourite food: steak
 ----------------------------------------------------
+StudentID:JuhaMattiAyvari
+Name: Juha-Matti Äyväri
+Question 1.
+Your favourite color: Brown
 
+Question 2.
+Your favourite sport: Golf
+
+Question 3.
+Your favourite food: steak
+----------------------------------------------------
