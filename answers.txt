@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 68 + 1 = 69 students
+﻿Number of students who modified this file: 69 + 1 = 70 students
 
-Name of the last student who modified this file: Ville Savolainen 
+Name of the last student who modified this file: Mikko Nurmiranta
 
 -----------------------------------------------------
 [Template]
@@ -979,4 +979,15 @@ Your favourite sport: Running
 
 Question 3.
 Your favourite food: Fish
+-----------------------------------------------------
+Student ID: N2723
+Name: Mikko Nurmiranta
+Question 1.
+Your favorite color: Red
+
+Question 2.
+Your favorite sport: Ice Hockey
+
+Question 3.
+Your favorite food: Sauteed reindeer
 -----------------------------------------------------
