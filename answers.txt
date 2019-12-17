@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 69 + 1 = 70 students
+﻿Number of students who modified this file: 70 + 1 = 71 students
 
-Name of the last student who modified this file: Mikko Nurmiranta
+Name of the last student who modified this file: Goran Gjorgievski
 
 -----------------------------------------------------
 [Template]
@@ -991,3 +991,13 @@ Your favorite sport: Ice Hockey
 Question 3.
 Your favorite food: Sauteed reindeer
 -----------------------------------------------------
+Student ID:1908165
+Name: Goran Gjorgievski
+Question 1.
+Your favorite color: Brown
+
+Question 2.
+Your favorite sport: Calisthenics
+
+Question 3.
+Your favorite food: Any :)
