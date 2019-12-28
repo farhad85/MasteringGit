@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 69 + 1 = 70 students
+﻿Number of students who modified this file: 70 + 1 = 71 students
 
-Name of the last student who modified this file: Mikko Nurmiranta
+Name of the last student who modified this file: John Davies
 
 -----------------------------------------------------
 [Template]
@@ -990,4 +990,14 @@ Your favorite sport: Ice Hockey
 
 Question 3.
 Your favorite food: Sauteed reindeer
+-----------------------------------------------------
+Student ID: 1906726
+Name: John Davies
+
+Question 1.
+Your favorite color: Purple
+Question 2.
+Your Favorite sports: Boxing
+Question 3.
+Your favorite food: Mahi Mahi burgers
 -----------------------------------------------------
