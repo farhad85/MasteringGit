@@ -1,7 +1,6 @@
-﻿Number of students who modified this file: 69 + 1 = 70 students
+﻿Number of students who modified this file: 70 + 1 = 71 students
 
-Name of the last student who modified this file: Mikko Nurmiranta
-
+Name of the last student who modified this file: Jani Mynttinen
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -990,4 +989,15 @@ Your favorite sport: Ice Hockey
 
 Question 3.
 Your favorite food: Sauteed reindeer
+-----------------------------------------------------
+Student ID:3141592653589
+Name: Jani Mynttinen
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Greek salad
 -----------------------------------------------------
