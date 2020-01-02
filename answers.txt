@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 70 + 1 = 71 students
+Number of students who modified this file: 84 + 1 = 85 students
 
-Name of the last student who modified this file: John Davies
+Name of the last student who modified this file: Jani Mynttinen
 
 -----------------------------------------------------
 [Template]
@@ -680,7 +680,7 @@ Your favorite sport: Lacrosse
 Question 3.
 Your favorite food: Sushi
 -----------------------------------------------------
-<<<<<<< HEAD
+
 Student ID:1404065
 Name: Jani Havukainen
 Question 1.
@@ -691,7 +691,7 @@ Your favorite sport: Cycling
 
 Question 3.
 Your favorite food: Lasagne
-=======
+
 Student ID: t4ngth00
 Name: Nhan Nguyen
 Question 1.
@@ -702,7 +702,7 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Pho
->>>>>>> 1aa71d95239ba5e0ce00f63f2ca43789523f369d
+
 -----------------------------------------------------
 Student ID:saraalka
 Name: Sara alkafri
@@ -990,6 +990,17 @@ Your favorite sport: Ice Hockey
 
 Question 3.
 Your favorite food: Sauteed reindeer
+-----------------------------------------------------
+Student ID:3141592653589
+Name: Jani Mynttinen
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Greek salad
 -----------------------------------------------------
 Student ID: 1906726
 Name: John Davies
