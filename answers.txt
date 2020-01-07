@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 70 + 1 = 71 students
+﻿Number of students who modified this file: 71 + 1 = 72 students
 
-Name of the last student who modified this file: Jani Mynttinen
+Name of the last student who modified this file: Ufuk
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -1000,4 +1000,15 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Greek salad
+-----------------------------------------------------
+Student ID:ufukamkoodari
+Name: Ufuk
+Question 1.
+Your favorite color: Red
+
+Question 2.
+Your favorite sport: Kickboxing
+
+Question 3.
+Your favorite food: Broccoli
 -----------------------------------------------------
