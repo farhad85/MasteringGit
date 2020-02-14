@@ -2,4 +2,7 @@ London
 Paris
 Rome
 Dublin
+Amsterdam
+Prague
+Berlin
 
