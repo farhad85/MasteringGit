@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 71 + 1 = 72 students
+﻿Number of students who modified this file: 72 + 1 = 73 students
 
-Name of the last student who modified this file: Jussi Kenkkilä
+Name of the last student who modified this file: Simone Ylönen
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -1011,4 +1011,15 @@ Your favorite sport: Dancing
 
 Question 3.
 Your favorite food: Pizza
+-----------------------------------------------------
+Student ID:syloas
+Name: Simone Ylönen
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Swim
+
+Question 3.
+Your favorite food: Fish
 -----------------------------------------------------
