@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 72 + 1 = 73 students
+﻿Number of students who modified this file: 73 + 1 = 74 students
 
-Name of the last student who modified this file: Simone Ylönen
+Name of the last student who modified this file: Joni Karlsson
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -1022,4 +1022,15 @@ Your favorite sport: Swim
 
 Question 3.
 Your favorite food: Fish
+----------------------------------------------------
+Student ID: JoniKarlsson
+Name: Joni Karlsson
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Boxing
+
+Question 3.
+Your favorite food: Steak with mashed potatos and mushroom sauce(chantarelle)
 ----------------------------------------------------
