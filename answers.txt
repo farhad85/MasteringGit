@@ -1,4 +1,4 @@
-﻿Number of students who modified this file: 73 + 1 = 74 students
+﻿Number of students who modified this file: 74 + 1 = 75 students
 
 Name of the last student who modified this file: Jyrki Leskinen
 -----------------------------------------------------
@@ -1033,4 +1033,15 @@ Your favorite sport: Ice Hockey
 
 Question 3.
 Your favorite food: Pizza
+-----------------------------------------------------
+Student ID:TomiLehto
+Name: Tomi Lehto
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Ice Hockey
+
+Question 3.
+Your favorite food: Burger
 -----------------------------------------------------
