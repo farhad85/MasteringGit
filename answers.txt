@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 74 + 1 = 75 students
+﻿Number of students who modified this file: 75 + 1 = 76 students
 
-Name of the last student who modified this file: Jyrki Leskinen
+Name of the last student who modified this file: Kari Virtanen
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -838,11 +838,11 @@ Name: Voitto Terrihauta
 Question 1:
 Your favorite color: Gray
 
-Question 2: 
+Question 2:
 Your favorite sport: Volleyball
 
-Question 3: 
-Your favorite food: French fries 
+Question 3:
+Your favorite food: French fries
 --------------------------------------------------
 Student ID: a1700433
 Name: Sarianna Silvonen
@@ -850,11 +850,11 @@ Name: Sarianna Silvonen
 Question 1:
 Your favorite color: Turquoise
 
-Question 2: 
+Question 2:
 Your favorite sport: Walking
 
-Question 3: 
-Your favorite food: Pizza 
+Question 3:
+Your favorite food: Pizza
 
 Student ID:1305914
 Name: Parbat Thakur
@@ -890,7 +890,7 @@ Your favorite sport: Aikido
 Question 3.
 Your favorite food: Lembas
 -----------------------------------------------------
-Student ID: vami67	
+Student ID: vami67
 Name: Mika Vahlberg
 Question 1.
 Your favorite color: Green
@@ -901,7 +901,7 @@ Your favorite sport: Walking
 Question 3.
 Your favorite food: Salad
 -----------------------------------------------------
-Student ID: samirboudissa1994	
+Student ID: samirboudissa1994
 Name: Samir Boudissa
 Question 1.
 Your favorite color: Orange
@@ -944,7 +944,7 @@ Question 2.
 Your favourite sport: Mixed Martial Arts
 
 Question 3.
-Your favourite food: Seafood 
+Your favourite food: Seafood
 ----------------------------------------------------
 StudentID: 1804293
 Name: Juhani Halkola
@@ -955,7 +955,7 @@ Question 2.
 Your favourite sport: Frisbeegolf
 
 Question 3.
-Your favourite food: Palak Paneer 
+Your favourite food: Palak Paneer
 ----------------------------------------------------
 StudentID:Tapsa67
 Name: Tapio Hietanen
@@ -1045,3 +1045,15 @@ Your favorite sport: Ice Hockey
 Question 3.
 Your favorite food: Burger
 -----------------------------------------------------
+Student ID:karivir
+Name: Kari Virtanen
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Ice Hockey
+
+Question 3.
+Your favorite food: Pizza
+-----------------------------------------------------
+
