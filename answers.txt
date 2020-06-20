@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 75 + 1 = 76 students
+﻿Number of students who modified this file: 76 + 1 = 7 students
 
-Name of the last student who modified this file: Jani Malmberg
+Name of the last student who modified this file: Tanel Tuuha
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -1055,4 +1055,15 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Pizza
+-----------------------------------------------------
+Student ID:2008
+Name: Tanel Tuuha
+Question 1.
+Your favorite color: Purple
+
+Question 2.
+Your favorite sport: Vine drinking
+
+Question 3.
+Your favorite food: Cheese bites
 -----------------------------------------------------
