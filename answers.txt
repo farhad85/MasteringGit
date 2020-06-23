@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 76 + 1 = 77 students
+﻿Number of students who modified this file: 77 + 1 = 78 students
 
-Name of the last student who modified this file: Salvador Dukuzumuremyi
+Name of the last student who modified this file: Juho Pölönen
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -1066,4 +1066,15 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Cassava paste
+-----------------------------------------------------
+Student ID: 901106
+Name: Juho Pölönen
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Baseball
+
+Question 3.
+Your favorite food: Pasta and meatballs
 -----------------------------------------------------
