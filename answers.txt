@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 77 + 1 = 78 students
+Number of students who modified this file: 78 + 1 = 79 students
 
-Name of the last student who modified this file: Elisa Mäkinen
+Name of the last student who modified this file: Jere Vuola
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -1074,6 +1074,17 @@ Your favorite color: Green
 
 Question 2.
 Your favorite sport: Mountain biking
+
+Question 3.
+Your favorite food: Pizza
+-----------------------------------------------------
+Student ID:0100110
+Name: Jere Vuola
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Gym
 
 Question 3.
 Your favorite food: Pizza
