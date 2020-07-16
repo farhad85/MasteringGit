@@ -1,6 +1,6 @@
-﻿Number of students who modified this file: 76 + 1 = 77 students
+﻿Number of students who modified this file: 77 + 1 = 78 students
 
-Name of the last student who modified this file: Salvador Dukuzumuremyi
+Name of the last student who modified this file: Ludvig Eklund
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -12,7 +12,7 @@ Question 2.
 Your favorite sport: Football
 
 Question 3.
-Your favorite food: MOMO
+Your favorite food: MOMOs
 -----------------------------------------------------
 Student ID:1304945
 Name: Karar Mehdi Habib
@@ -1066,4 +1066,15 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Cassava paste
+-----------------------------------------------------
+Student ID: LudvigE
+Name: Ludvig Eklund
+Question 1.
+Your favorite color: Grey
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Fish soup
 -----------------------------------------------------
