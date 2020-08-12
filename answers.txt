@@ -1,6 +1,6 @@
-Number of students who modified this file: 78 + 1 = 79 students
+Number of students who modified this file: 79 + 1 = 80 students
 
-Name of the last student who modified this file: Kimberly Ruohio
+Name of the last student who modified this file: David Thiry
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -1088,5 +1088,16 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Carolina BBQ
+-----------------------------------------------------
+Student ID:davidcharly
+Name: David Thiry
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: French cuisine 
 -----------------------------------------------------
 
