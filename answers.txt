@@ -1,4 +1,4 @@
-Number of students who modified this file: 78 + 1 = 79 students
+Number of students who modified this file: 79 + 1 = 80 students
 
 Name of the last student who modified this file: Kimberly Ruohio
 -----------------------------------------------------
@@ -1089,4 +1089,15 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: Carolina BBQ
 -----------------------------------------------------
+[Template]
+Student ID:007
+Name: Nastradoomus
+Question 1.
+Your favorite color: Fuchsia
 
+Question 2.
+Your favorite sport: Chess
+
+Question 3.
+Your favorite food: Soup
+-----------------------------------------------------

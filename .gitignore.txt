@@ -1,3 +1,4 @@
 *.exe
 *.pif
 *.psd
+*.code-workspace
