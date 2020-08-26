@@ -1101,3 +1101,13 @@ Question 3.
 Your favorite food: burger
 -----------------------------------------------------
 
+Student ID: 28031992
+Name: Elina Korhonen
+Question 1.
+Your favorite color: Red
+
+Question 2.
+Your favorite sport: Basketball
+
+Question 3.
+Your favorite food: Sushi
