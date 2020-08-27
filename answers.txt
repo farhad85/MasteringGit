@@ -1,6 +1,6 @@
-Number of students who modified this file: 79 + 1 = 80 students
+Number of students who modified this file: 80 + 1 = 81 students
 
-Name of the last student who modified this file: Sami Pekkala
+Name of the last student who modified this file: Simo Mäkelä
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -1111,3 +1111,14 @@ Your favorite sport: Basketball
 
 Question 3.
 Your favorite food: Sushi
+-----------------------------------------------------
+Student ID: 1901876
+Name: Simo Mäkelä
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Skiing
+
+Question 3.
+Your favorite food: Seafood
