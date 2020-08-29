@@ -1,6 +1,6 @@
-Number of students who modified this file: 79 + 1 = 80 students
+Number of students who modified this file: 80 + 1 = 81 students
 
-Name of the last student who modified this file: Sami Pekkala
+Name of the last student who modified this file: Mikko Lehtinen
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -1111,3 +1111,16 @@ Your favorite sport: Basketball
 
 Question 3.
 Your favorite food: Sushi
+
+-----------------------------------------------------
+
+Student ID: 00000
+Name: Mikko Lehtinen
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Brazilian Jiu-Jitsu
+
+Question 3.
+Your favorite food: Pizza
