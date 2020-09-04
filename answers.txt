@@ -1,6 +1,6 @@
-Number of students who modified this file: 79 + 1 = 80 students
+Number of students who modified this file: 80 + 1 = 81 students
 
-Name of the last student who modified this file: Sami Pekkala
+Name of the last student who modified this file: Paulo Omega
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -1105,6 +1105,18 @@ Student ID: 28031992
 Name: Elina Korhonen
 Question 1.
 Your favorite color: Red
+
+Question 2.
+Your favorite sport: Basketball
+
+Question 3.
+Your favorite food: Sushi
+-----------------------------------------------------
+
+Student ID:210292
+Name: Paulo Omega
+Question 1.
+Your favorite color: Black
 
 Question 2.
 Your favorite sport: Basketball
