@@ -1141,10 +1141,10 @@ Your favorite food: Chiken
 Student ID:1234
 Name: Jussi Niemi
 Question 1.
-Your favorite color: Blue
+Your favorite color: Red
 
 Question 2.
-Your favorite sport: Yoga
+Your favorite sport: Swimming
 
 Question 3.
-Your favorite food: Steak
+Your favorite food: Fish soup
