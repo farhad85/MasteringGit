@@ -1160,7 +1160,7 @@ Your favorite food: Steak
 Student ID:anh-vumartell
 Name: Ngoc Anh Vu-Martell
 Question 1.
-Your favorite color: Blue
+Your favorite color: Yellow
 
 Question 2.
 Your favorite sport: Yoga
