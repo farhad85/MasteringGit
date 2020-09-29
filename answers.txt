@@ -1,11 +1,11 @@
 <<<<<<< HEAD
+Number of students who modified this file: 81 + 3 = 84 students
+
+Name of the last student who modified this file: J Virta
+=======
 Number of students who modified this file: 81 + 2 = 83 students
 
 Name of the last student who modified this file: Ngoc Anh Vu-Martell
-=======
-Number of students who modified this file: 82 + 1 = 83 students
-
-Name of the last student who modified this file: Sait Ozgun
 >>>>>>> ea99373cef58d4a9da77986f535facb2f5e645c9
 -----------------------------------------------------
 [Template]
@@ -1181,3 +1181,16 @@ Your favorite sport: Basketball
 Question 3.
 Your favorite food: Pasta
 >>>>>>> ea99373cef58d4a9da77986f535facb2f5e645c9
+
+
+Student ID:192876
+Name: J Virta
+Question 1.
+Your favorite color: Gray
+
+Question 2.
+Your favorite sport: Badminton
+
+Question 3.
+Your favorite food: Salmon
+
