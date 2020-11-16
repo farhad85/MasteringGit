@@ -1,6 +1,6 @@
-Number of students who modified this file: 81 + 4 = 85 students
+Number of students who modified this file: 82 + 4 = 86 students
 
-Name of the last student who modified this file: Tony Myllymaki
+Name of the last student who modified this file: Sami Sihvonen
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -1198,3 +1198,14 @@ Your favorite sport: Volleyball
 
 Question 3.
 Your favorite food: Meatballs
+------------------------------------------------------
+Student ID:897491
+Name: Sami Sihvonen
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Snowboarding
+
+Question 3.
+Your favorite food: Pizza
