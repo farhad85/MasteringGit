@@ -1,6 +1,6 @@
-Number of students who modified this file: 82 + 4 = 86 students
+Number of students who modified this file: 86 + 1 = 87 students
 
-Name of the last student who modified this file: Sami Sihvonen
+Name of the last student who modified this file: Mari Jäntti
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -1209,3 +1209,14 @@ Your favorite sport: Snowboarding
 
 Question 3.
 Your favorite food: Pizza
+-----------------------------------------------------
+Student ID:409
+Name: Mari Jäntti
+Question 1.
+Your favorite color: Black/purple
+
+Question 2.
+Your favorite sport: Dancehall
+
+Question 3.
+Your favorite food: cooked liver
