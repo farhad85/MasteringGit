@@ -1,6 +1,6 @@
-Number of students who modified this file: 82 + 4 = 86 students
+Number of students who modified this file: 82 + 5 = 87 students
 
-Name of the last student who modified this file: Sami Sihvonen
+Name of the last student who modified this file: Mika Kyllönen
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -1209,3 +1209,15 @@ Your favorite sport: Snowboarding
 
 Question 3.
 Your favorite food: Pizza
+------------------------------------------------------
+Student ID: 2016374
+Name: Mika Kyllönen
+Question 1.
+Your favorite color: Green
+
+Question 2.
+Your favorite sport: Ice Hockey
+
+Question 3.
+Your favorite food: Katsu caree
+------------------------------------------------------
