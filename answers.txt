@@ -1,6 +1,6 @@
-Number of students who modified this file: 82 + 6 = 88 students
+Number of students who modified this file: 82 + 7 = 89 students
 
-Name of the last student who modified this file: Pauli Rinne
+Name of the last student who modified this file: Elina Kaperi
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -1231,4 +1231,16 @@ Your favorite sport: Surfing
 
 Question 3.
 Your favorite food: Pizza
+------------------------------------------------------
+
+Student ID: 88
+Name: Elina kaperi
+Question 1.
+Your favorite color: Pink
+
+Question 2.
+Your favorite sport: Running
+
+Question 3.
+Your favorite food: Noodles
 ------------------------------------------------------
