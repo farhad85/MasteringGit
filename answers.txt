@@ -1,6 +1,6 @@
-Number of students who modified this file: 82 + 6 = 88 students
+Number of students who modified this file: 83 + 6 = 89 students
 
-Name of the last student who modified this file: Pauli Rinne
+Name of the last student who modified this file: Sedat Koc
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -1231,4 +1231,15 @@ Your favorite sport: Surfing
 
 Question 3.
 Your favorite food: Pizza
+------------------------------------------------------
+Student ID: 061264024
+Name: Sedat Koc
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Doner Kebab
 ------------------------------------------------------
