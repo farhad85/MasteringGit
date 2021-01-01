@@ -1,6 +1,6 @@
-Number of students who modified this file: 82 + 7 = 89 students
+Number of students who modified this file: 82 + 8 = 90 students
 
-Name of the last student who modified this file: M Tamminen
+Name of the last student who modified this file: Umar Hamid
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -1243,3 +1243,13 @@ Your favorite sport: Wrestling
 Question 3.
 Your favorite food: Lipeäkala
 ------------------------------------------------------
+Student ID:171717
+Name: Umar Hamid
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Pizza
