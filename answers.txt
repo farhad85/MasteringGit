@@ -1243,3 +1243,13 @@ Your favorite sport: Wrestling
 Question 3.
 Your favorite food: Lipeäkala
 ------------------------------------------------------
+Student ID: 1907019
+Name: Raimo Parkkila
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Fitness
+Question 3.
+Your favorite food: Tikka Masala
+------------------------------------------------------
