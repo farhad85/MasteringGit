@@ -1,6 +1,6 @@
 Number of students who modified this file: 82 + 7 = 89 students
 
-Name of the last student who modified this file: M Tamminen
+Name of the last student who modified this file: J Jääskeläinen
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -1242,4 +1242,15 @@ Your favorite sport: Wrestling
 
 Question 3.
 Your favorite food: Lipeäkala
+------------------------------------------------------
+Student ID: 0100
+Name: Juha Jääskeläinen
+Question 1.
+Your favorite color: Green and Red
+
+Question 2.
+Your favorite sport: Motorsport and Cycling
+
+Question 3.
+Your favorite food: Burgers and Pasta
 ------------------------------------------------------
