@@ -1,6 +1,6 @@
-Number of students who modified this file: 82 + 7 = 89 students
+Number of students who modified this file: 82 + 8 = 90 students
 
-Name of the last student who modified this file: M Tamminen
+Name of the last student who modified this file: Mikke Sarvinen
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -1253,3 +1253,14 @@ Your favorite sport: Fitness
 Question 3.
 Your favorite food: Tikka Masala
 ------------------------------------------------------
+Student ID:202101291700
+Name: Mikke Sarvinen
+Question 1.
+Your favorite color: Orange
+
+Question 2.
+Your favorite sport: Chess
+
+Question 3.
+Your favorite food: Lasagne
+-----------------------------------------------------
