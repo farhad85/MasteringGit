@@ -1270,7 +1270,7 @@ Question 1.
 Your favorite color: Black
 
 Question 2.
-Your favorite sport: Padel
+Your favorite sport: Golf
 
 Question 3.
 Your favorite food: Salmon
