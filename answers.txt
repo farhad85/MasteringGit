@@ -1,6 +1,6 @@
-Number of students who modified this file: 83 + 8 = 91 students
+Number of students who modified this file: 84 + 8 = 92 students
 
-Name of the last student who modified this file: Janne Kokkonen
+Name of the last student who modified this file: David Fonseca
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -1275,3 +1275,14 @@ Your favorite sport: Padel
 Question 3.
 Your favorite food: Salmon
 ------------------------------------------------------
+Student ID: 2018254
+Name: David Fonseca
+
+Question 1.
+Your favorite color: Bue
+
+Question 2.
+Your favorite sport: Running
+
+Question 3.
+Your favorite food: Saag Tofu
