@@ -1,4 +1,4 @@
-Number of students who modified this file: 82 + 7 = 89 students
+Number of students who modified this file: 82 + 8 = 90 students
 
 Name of the last student who modified this file: M Tamminen
 -----------------------------------------------------
@@ -1253,4 +1253,14 @@ Your favorite sport: Fitness
 Question 3.
 Your favorite food: Tikka Masala
 ------------------------------------------------------
+Student ID: 1610
+Name: V Beloborodova
+Question 1.
+Your favorite color: Grey
 
+Question 2.
+Your favorite sport: Badminton
+
+Question 3.
+Your favorite food: Pizza
+------------------------------------------------------
