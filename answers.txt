@@ -1264,3 +1264,14 @@ Your favorite sport: Badminton
 Question 3.
 Your favorite food: Pizza
 ------------------------------------------------------
+Student ID: m0701882
+Name: Sevilay Doganay
+Question 1.
+Your favorite color: Purple
+
+Question 2.
+Your favorite sport: Badminton
+
+Question 3.
+Your favorite food: Pizza
+------------------------------------------------------
