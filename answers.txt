@@ -1,6 +1,6 @@
-Number of students who modified this file: 82 + 8 = 90 students
+Number of students who modified this file: 82 + 9 = 91 students
 
-Name of the last student who modified this file: M Tamminen
+Name of the last student who modified this file: J Anttila
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -1264,3 +1264,13 @@ Your favorite sport: Badminton
 Question 3.
 Your favorite food: Pizza
 ------------------------------------------------------
+Student ID:2131011
+Name: J Anttila
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Hockey
+
+Question 3.
+Your favorite food: Sushi
