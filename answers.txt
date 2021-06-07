@@ -1274,3 +1274,14 @@ Your favorite sport: Hockey
 
 Question 3.
 Your favorite food: Sushi
+-----------------------------------------------------
+Student ID: 2018746 
+Name: Arnel Gonzales Imperial
+Question 1.
+Your favorite color: Black & Green
+
+Question 2.
+Your favorite sport: Tug o' war 
+
+Question 3.
+Your favorite food: Coconut & Papaya
