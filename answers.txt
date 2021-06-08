@@ -1,6 +1,6 @@
-Number of students who modified this file: 82 + 9 = 91 students
+Number of students who modified this file: 82 + 10 = 92 students
 
-Name of the last student who modified this file: J Anttila
+Name of the last student who modified this file: Arnel Gonzales Imperial
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -679,7 +679,6 @@ Your favorite sport: Lacrosse
 Question 3.
 Your favorite food: Sushi
 -----------------------------------------------------
-<<<<<<< HEAD
 Student ID:1404065
 Name: Jani Havukainen
 Question 1.
@@ -690,7 +689,7 @@ Your favorite sport: Cycling
 
 Question 3.
 Your favorite food: Lasagne
-=======
+-----------------------------------------------------
 Student ID: t4ngth00
 Name: Nhan Nguyen
 Question 1.
@@ -701,7 +700,6 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Pho
->>>>>>> 1aa71d95239ba5e0ce00f63f2ca43789523f369d
 -----------------------------------------------------
 Student ID:saraalka
 Name: Sara alkafri
@@ -1148,9 +1146,7 @@ Your favorite sport: Yoga
 
 Question 3.
 Your favorite food: Steak
-
-<<<<<<< HEAD
------------------------------------------------
+-----------------------------------------------------
 Student ID:anh-vumartell
 Name: Ngoc Anh Vu-Martell
 Question 1.
@@ -1161,9 +1157,7 @@ Your favorite sport: Yoga
 
 Question 3.
 Your favorite food: Noodle soup
-=======
 -------------------------------------------------------
-
 Student ID:41
 Name: Sait Ozgun
 Question 1.
@@ -1174,9 +1168,7 @@ Your favorite sport: Basketball
 
 Question 3.
 Your favorite food: Pasta
->>>>>>> ea99373cef58d4a9da77986f535facb2f5e645c9
-
-
+-----------------------------------------------------
 Student ID:192876
 Name: J Virta
 Question 1.
@@ -1274,3 +1266,14 @@ Your favorite sport: Hockey
 
 Question 3.
 Your favorite food: Sushi
+-----------------------------------------------------
+Student ID: 2018746
+Name: Arnel Gonzales Imperial
+Question 1.
+Your favorite color: Black & Green
+
+Question 2.
+Your favorite sport: Thug o' war
+
+Question 3.
+Your favorite food: Coconu & Papaya
