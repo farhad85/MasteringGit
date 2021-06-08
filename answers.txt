@@ -1,6 +1,6 @@
-Number of students who modified this file: 82 + 9 = 91 students
+Number of students who modified this file: 82 + 10 = 92 students
 
-Name of the last student who modified this file: J Anttila
+Name of the last student who modified this file: Arnel Gonzales Imperial
 -----------------------------------------------------
 [Template]
 Student ID:1305914
@@ -24,7 +24,7 @@ Your favorite sport: Basketball
 
 Question 3.
 Your favorite food: Chicken Tikka Masala
-
+-----------------------------------------------------
 Student ID:1505610
 Name: Lutful Haider
 Question 1.
@@ -35,7 +35,7 @@ Your favorite sport: Cricket
 
 Question 3.
 Your favorite food: Sea food
-
+-----------------------------------------------------
 Student ID:1304977
 Name: Shah Zaib Hassan
 Question 1.
@@ -46,7 +46,7 @@ Your favorite sport: E-Gaming
 
 Question 3.
 Your favorite meal: Kheer
-
+-----------------------------------------------------
 Student ID:1700908
 Name: Ricardo Oksa
 Question 1.
@@ -57,7 +57,7 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite meal: Pizza
-
+-----------------------------------------------------
 StudentID: 1505903
 Name: Tero H
 Question 1.
@@ -68,7 +68,7 @@ Your favourite sport: Don't know...
 
 Question 3.
 Your favourite meal: Chinese, probably some northern dish.
-
+-----------------------------------------------------
 Student ID:1504160
 Name: Apollinariia Gainulenko
 
@@ -80,8 +80,7 @@ Your favorite sport: Swimming
 
 Question 3.
 Your favorite food: Sushi
-
-------------------------------------------------------------
+-----------------------------------------------------
 Student ID:1504166
 Name: Ly Duong Hai					   |
 Question 1.
@@ -92,8 +91,7 @@ Your favorite sport: taekwondo
 							   |
 Question 3.
 Your favorite food: Tomyum				   |
-
-------------------------------------------------------------
+-----------------------------------------------------
 Student ID:1501104
 Name: Simo Suominen
 Question 1.
@@ -104,7 +102,7 @@ Your favorite sport: Ice hockey
 
 Question 3.
 Your favorite food: Pizza
-
+-----------------------------------------------------
 Student ID:1305012
 Name: Ahmed Jaber Choudhury
 Question 1.
@@ -115,8 +113,7 @@ Your favorite sport: Cricket
 
 Question 3.
 Your favorite food: Biriani
-
-------------------------------------------------------------
+-----------------------------------------------------
 Student ID:a1600607
 Name: Thu Nghiem
 Question 1.
@@ -127,7 +124,7 @@ Your favorite sport: chest
 
 Question 3.
 Your favorite food: Pho
-
+-----------------------------------------------------
 Student ID:1708131
 Name: Mahendra Mahat
 Question 1.
@@ -138,61 +135,63 @@ Your favorite sport: Cricket
 
 Question 3.
 Your favorite food: lamb curry
-------------------------------------------------------------------------------
+-----------------------------------------------------
 Student ID: 1304980
 Name: Hem Dhungel
-
 Question 1.
 Your favorite color: Black
+
 Question 2.
 Your Favorite sports: Football
+
 Question 3.
 Your favorite food: Anything tasty and healthy
-------------------------------------------------------------------------------
+-----------------------------------------------------
 Student ID: 1708501
 Name: Soeun Jang
-
 Question 1.
-
 Your favorite color: Green
-=======
 Your favorite color: Black
 
 Question 2.
 Your Favorite sports: Badminton
+
 Question 3.
 Your favorite food: Anything spicy
-------------------------------------------------------------------------------
+-----------------------------------------------------
 Student ID: 1701663
 Name: Jaakko Nurmi
-
 Question 1.
 Your favorite color: Red
+
 Question 2.
 Your Favorite sports: Ice Hockey
+
 Question 3.
 Your favorite food: Anything spicy and hot.
-------------------------------------------------------------------------------
+-----------------------------------------------------
 Student ID: 1708601
 Name:	Sauli TYvi
-
 Question 1:
 Your favourite color: Black
+
 QUestion 2:
 Your favorite sports: Rugby
+
 Question 3:
 Your favorite food: Chinese
-------------------------------------------------------------------------------
+-----------------------------------------------------
 Student ID: 1605465
 Name:	Jaya Kumar Bidari
-
 Question 1:
 Your favourite color: red
+
 QUestion 2:
 Your favorite sports: chess
+
 Question 3:
 Your favorite food: Lamb and rice.
--------------------------------------------------------------------------------
+-----------------------------------------------------
 Student ID:1708500
 Name: Kasperi Klaavo
 Question 1.
@@ -282,7 +281,6 @@ Your favorite sport: Swimming, Hiking
 Question 3.
 Your favorite food: Pizza, Soups, Fish and Vodka .\,,/
 -----------------------------------------------------
-=======
 Student ID:1504229
 Name: Sandip Gautam
 Question 1.
@@ -294,7 +292,6 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: Mo:MO
 -----------------------------------------------------
-
 Student ID:1305923
 Name: Manish Das
 Question 1.
@@ -305,7 +302,7 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Neplese Cuisine
-=======
+-----------------------------------------------------
 Student ID:a1602782
 Name: Kalle Verho
 Question 1.
@@ -404,7 +401,6 @@ Your favorite sport: Icehockey
 
 Question 3.
 Your favorite food: Pizza
-
 -----------------------------------------------------
 Student ID: K4424
 Name: Ujjawal Shrestha
@@ -416,7 +412,6 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Momo
-
 -----------------------------------------------------
 Student ID:K8241
 Name: Noora Jokinen
@@ -485,7 +480,6 @@ Your favorite food: Roll kebab
 -----------------------------------------------------
 Student ID: 5084975
 Name: Apostolos Monocholias
-
 Question 1.
 Your favorite color: Black
 
@@ -679,7 +673,6 @@ Your favorite sport: Lacrosse
 Question 3.
 Your favorite food: Sushi
 -----------------------------------------------------
-<<<<<<< HEAD
 Student ID:1404065
 Name: Jani Havukainen
 Question 1.
@@ -690,7 +683,7 @@ Your favorite sport: Cycling
 
 Question 3.
 Your favorite food: Lasagne
-=======
+-----------------------------------------------------
 Student ID: t4ngth00
 Name: Nhan Nguyen
 Question 1.
@@ -701,7 +694,6 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Pho
->>>>>>> 1aa71d95239ba5e0ce00f63f2ca43789523f369d
 -----------------------------------------------------
 Student ID:saraalka
 Name: Sara alkafri
@@ -758,7 +750,6 @@ Your favorite sport: Rugby
 Question 3.
 Your favorite food: Hamburger
 -----------------------------------------------------
-
 Student ID:1808804
 Name: Visa Hari
 Question 1.
@@ -770,7 +761,6 @@ Your favorite sport: Cricket
 Question 3.
 Your favorite food: Pizza
 -----------------------------------------------------
-
 Student ID:Stanley Amiedu
 Name: Stanley Festus
 Question 1.
@@ -781,9 +771,7 @@ Your favorite sport: Football / Soccer
 
 Question 3.
 Your favorite food: Rice and Chicken
-
-------------------------------------------------------------
-
+-----------------------------------------------------
 Student ID: 1809477
 Name: Tuyet Tran
 Question 1.
@@ -794,7 +782,6 @@ Your favorite sport: Tennis
 
 Question 3.
 Your favorite food: Vietnamese Noodle
-
 ------------------------------------------------------------
 Student ID: hectorm
 Name: Héctor Gabriel Suero Martínez
@@ -806,7 +793,6 @@ Your favorite sport: Tennis
 
 Question 3.
 Your favorite food: Asian Cuisine
-
 -----------------------------------------------------
 Student ID: 1602926
 Name: Wikkee Laugesen
@@ -831,7 +817,7 @@ Your favorite sport: Ice Hockey
 
 Question 3.
 Your favorite food: Pizza!
-
+-----------------------------------------------------
 Student ID: 1803395
 Name: Voitto Terrihauta
 
@@ -843,7 +829,7 @@ Your favorite sport: Volleyball
 
 Question 3:
 Your favorite food: French fries
---------------------------------------------------
+-----------------------------------------------------
 Student ID: a1700433
 Name: Sarianna Silvonen
 
@@ -855,7 +841,7 @@ Your favorite sport: Walking
 
 Question 3:
 Your favorite food: Pizza
-
+-----------------------------------------------------
 Student ID:1305914
 Name: Parbat Thakur
 Question 1.
@@ -867,7 +853,6 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: MOMO
 -----------------------------------------------------
-
 Student ID: 1804770
 Name: Juha Koski
 Question 1.
@@ -923,7 +908,6 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: MOMO
 -----------------------------------------------------
-
 Student ID:
 Name: Gleb Tishchenko
 Question 1.
@@ -1100,7 +1084,6 @@ Your favorite sport: soccer
 Question 3.
 Your favorite food: burger
 -----------------------------------------------------
-
 Student ID: 28031992
 Name: Elina Korhonen
 Question 1.
@@ -1112,7 +1095,6 @@ Your favorite sport: Basketball
 Question 3.
 Your favorite food: Sushi
 -----------------------------------------------------
-
 Student ID:210292
 Name: Paulo Omega
 Question 1.
@@ -1123,8 +1105,7 @@ Your favorite sport: Basketball
 
 Question 3.
 Your favorite food: Sushi
--------------------------------------------------------
-
+-----------------------------------------------------
 Student ID:020283
 Name: KavithaNukala
 Question 1.
@@ -1135,9 +1116,7 @@ Your favorite sport: Tennis
 
 Question 3.
 Your favorite food: Chiken
-
--------------------------------------------------------
-
+-----------------------------------------------------
 Student ID:1234
 Name: Jussi Niemi
 Question 1.
@@ -1148,9 +1127,7 @@ Your favorite sport: Yoga
 
 Question 3.
 Your favorite food: Steak
-
-<<<<<<< HEAD
------------------------------------------------
+-----------------------------------------------------
 Student ID:anh-vumartell
 Name: Ngoc Anh Vu-Martell
 Question 1.
@@ -1161,9 +1138,7 @@ Your favorite sport: Yoga
 
 Question 3.
 Your favorite food: Noodle soup
-=======
--------------------------------------------------------
-
+-----------------------------------------------------
 Student ID:41
 Name: Sait Ozgun
 Question 1.
@@ -1174,9 +1149,7 @@ Your favorite sport: Basketball
 
 Question 3.
 Your favorite food: Pasta
->>>>>>> ea99373cef58d4a9da77986f535facb2f5e645c9
-
-
+-----------------------------------------------------
 Student ID:192876
 Name: J Virta
 Question 1.
@@ -1187,7 +1160,7 @@ Your favorite sport: Badminton
 
 Question 3.
 Your favorite food: Salmon
--------------------------------------------------------
+-----------------------------------------------------
 Student ID:007
 Name: Tony Myllymaki
 Question 1.
@@ -1198,7 +1171,7 @@ Your favorite sport: Volleyball
 
 Question 3.
 Your favorite food: Meatballs
-------------------------------------------------------
+-----------------------------------------------------
 Student ID:897491
 Name: Sami Sihvonen
 Question 1.
@@ -1209,7 +1182,7 @@ Your favorite sport: Snowboarding
 
 Question 3.
 Your favorite food: Pizza
-------------------------------------------------------
+-----------------------------------------------------
 Student ID: 2016374
 Name: Mika Kyllönen
 Question 1.
@@ -1220,7 +1193,7 @@ Your favorite sport: Ice Hockey
 
 Question 3.
 Your favorite food: Katsu caree
-------------------------------------------------------
+-----------------------------------------------------
 Student ID: 1337
 Name: Pauli Rinne
 Question 1.
@@ -1231,7 +1204,7 @@ Your favorite sport: Surfing
 
 Question 3.
 Your favorite food: Pizza
-------------------------------------------------------
+-----------------------------------------------------
 Student ID: 2016365
 Name: M Tamminen
 Question 1.
@@ -1242,7 +1215,7 @@ Your favorite sport: Wrestling
 
 Question 3.
 Your favorite food: Lipeäkala
-------------------------------------------------------
+-----------------------------------------------------
 Student ID: 1907019
 Name: Raimo Parkkila
 Question 1.
@@ -1252,7 +1225,7 @@ Question 2.
 Your favorite sport: Fitness
 Question 3.
 Your favorite food: Tikka Masala
-------------------------------------------------------
+-----------------------------------------------------
 Student ID: 1610
 Name: V Beloborodova
 Question 1.
@@ -1263,7 +1236,7 @@ Your favorite sport: Badminton
 
 Question 3.
 Your favorite food: Pizza
-------------------------------------------------------
+-----------------------------------------------------
 Student ID:2131011
 Name: J Anttila
 Question 1.
@@ -1274,3 +1247,14 @@ Your favorite sport: Hockey
 
 Question 3.
 Your favorite food: Sushi
+-----------------------------------------------------
+Student ID: 2018746 
+Name: Arnel Gonzales Imperial
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Tug o' war 
+
+Question 3.
+Your favorite food: Coconut & Papaya
