@@ -80,8 +80,7 @@ Your favorite sport: Swimming
 
 Question 3.
 Your favorite food: Sushi
-
-------------------------------------------------------------
+-----------------------------------------------------
 Student ID:1504166
 Name: Ly Duong Hai					   
 Question 1.
@@ -92,7 +91,7 @@ Your favorite sport: taekwondo
 
 Question 3.
 Your favorite food: Tomyum				   
-------------------------------------------------------------
+-----------------------------------------------------
 Student ID:1501104
 Name: Simo Suominen
 Question 1.
@@ -168,7 +167,7 @@ Question 2.
 Your Favorite sports: Ice Hockey
 Question 3.
 Your favorite food: Anything spicy and hot.
-------------------------------------------------------------------------------
+-----------------------------------------------------
 Student ID: 1708601
 Name:	Sauli TYvi
 
@@ -782,7 +781,7 @@ Your favorite sport: Tennis
 
 Question 3.
 Your favorite food: Vietnamese Noodle
-------------------------------------------------------------
+-----------------------------------------------------
 Student ID: hectorm
 Name: Héctor Gabriel Suero Martínez
 Question 1.
