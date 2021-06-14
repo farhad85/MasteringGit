@@ -1254,10 +1254,10 @@ Your favorite sport: Thug o' war
 Question 3.
 Your favorite food: Tamales & Chimichanga
 -----------------------------------------------------
-Student ID:2108713 
+Student ID:2108713
 Name: Omar Abdelfattah
 Question 1.
-Your favorite color: Neon Blue
+Your favorite color: Light Blue
 
 Question 2.
 Your favorite sport: Cycling
