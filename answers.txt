@@ -1,6 +1,6 @@
-Number of students who modified this file: 110 students
+Number of students who modified this file: 111 students
 
-Name of the last student who modified this file: Omar Abdelfattah
+Name of the last student who modified this file: J Räty
 -----------------------------------------------------
 [Template]
 Student ID:1234567
@@ -1264,3 +1264,14 @@ Your favorite sport: Cycling
 
 Question 3.
 Your favorite food: Shrimps
+-----------------------------------------------------
+Student ID:jonsse83
+Name: J Räty
+Question 1.
+Your favorite color: Red
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Surströmming
