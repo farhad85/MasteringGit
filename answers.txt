@@ -124,7 +124,7 @@ Your favorite sport: chest
 
 Question 3.
 Your favorite food: Pho
-
+-----------------------------------------------------
 Student ID:1708131
 Name: Mahendra Mahat
 Question 1.
