@@ -1276,7 +1276,7 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Surströmming
-=======
+-----------------------------------------------------
 Student ID:10101010
 Name: S. V.
 Question 1.
