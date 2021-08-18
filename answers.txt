@@ -1,19 +1,7 @@
-Number of students who modified this file: 114 students
+Number of students who modified this file: 113 students
 
 
 Name of the last student who modified this file: Jibril Salim Osman
------------------------------------------------------
-[Template]
-Student ID:1234567
-Name: John Doe
-Question 1.
-Your favorite color: Blue
-
-Question 2.
-Your favorite sport: Soccer
-
-Question 3.
-Your favorite food: Pasta
 -----------------------------------------------------
 Student ID:1304945
 Name: Karar Mehdi Habib
