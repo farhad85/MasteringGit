@@ -1,7 +1,7 @@
-Number of students who modified this file: 116 students
+Number of students who modified this file: 117 students
 
 
-Name of the last student who modified this file: Nhu Nguyen
+Name of the last student who modified this file: Erno Salo
 -----------------------------------------------------
 Student ID:1304945
 Name: Karar Mehdi Habib
@@ -71,15 +71,15 @@ Question 3.
 Your favorite food: Sushi
 -----------------------------------------------------
 Student ID:1504166
-Name: Ly Duong Hai					   
+Name: Ly Duong Hai
 Question 1.
-Your favorite color: blue				   
+Your favorite color: blue
 
-Question 2.						   
+Question 2.
 Your favorite sport: taekwondo
 
 Question 3.
-Your favorite food: Tomyum				   
+Your favorite food: Tomyum
 -----------------------------------------------------
 Student ID:1501104
 Name: Simo Suominen
@@ -1319,4 +1319,15 @@ Your favorite sport: Badminton
 
 Question 3.
 Your favorite food: Grandmother's dishes
+-----------------------------------------------------
+Student ID:0123497
+Name: Erno Salo
+Question 1.
+Your favorite color: Blue
+
+Question 2.
+Your favorite sport: Football
+
+Question 3.
+Your favorite food: Korean fried chicken
 -----------------------------------------------------
