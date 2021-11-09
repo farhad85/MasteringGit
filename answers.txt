@@ -1,7 +1,7 @@
-Number of students who modified this file: 116 students
+Number of students who modified this file: 117 students
 
 
-Name of the last student who modified this file: Nhu Nguyen
+Name of the last student who modified this file: Jan-Erik Eskelinen
 -----------------------------------------------------
 Student ID:1304945
 Name: Karar Mehdi Habib
@@ -1319,4 +1319,15 @@ Your favorite sport: Badminton
 
 Question 3.
 Your favorite food: Grandmother's dishes
+-----------------------------------------------------
+Student ID:m0702609
+Name: Jan-Erik Eskelinen
+Question 1.
+Your favorite color: Blue. No, yellOOOOOOOW!
+
+Question 2.
+Your favorite sport: Fishing
+
+Question 3.
+Your favorite food: Borsch
 -----------------------------------------------------
