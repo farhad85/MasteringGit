@@ -1,4 +1,4 @@
-Number of students who modified this file: 117 students
+Number of students who modified this file: 122 students
 
 
 Name of the last student who modified this file: Anthony Daniel
@@ -1331,4 +1331,14 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: Fried jollof rice
 -----------------------------------------------------
+Student ID:2209573
+Name: Henrikki Suomalainen
+Question 1.
+Your favourite color: Black
 
+Question 2.
+Your favorite sport: i don't like sports
+
+Question 3.
+Your favourite food: Spaghetti
+-----------------------------------------------------
