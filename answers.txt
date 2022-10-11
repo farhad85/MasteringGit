@@ -1,7 +1,7 @@
-Number of students who modified this file: 117 students
+Number of students who modified this file: 118 students
 
 
-Name of the last student who modified this file: Anthony Daniel
+Name of the last student who modified this file: Valentina Popova
 -----------------------------------------------------
 Student ID:1304945
 Name: Karar Mehdi Habib
@@ -1332,3 +1332,14 @@ Question 3.
 Your favorite food: Fried Jollof Rice
 -----------------------------------------------------
 
+Student ID:2219145
+Name: Valentina Popova
+Question 1.
+Your favorite color: White
+
+Question 2.
+Your favorite sport: Volleyball
+
+Question 3.
+Your favorite food: Lasagne
+-----------------------------------------------------
