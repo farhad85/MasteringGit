@@ -1331,12 +1331,3 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: Fried Jollof Rice
 -----------------------------------------------------
-Name:Anika Harju 
-Question 1.
-Your favorite color: orange
-
-Question 2.
-Your favorite sport: Football
-
-Question 3.
-Your favorite food: Thai and East Indian food 
