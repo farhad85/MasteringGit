@@ -1,7 +1,7 @@
-Number of students who modified this file: 117 students
+Number of students who modified this file: 118 students
 
 
-Name of the last student who modified this file: Anthony Daniel
+Name of the last student who modified this file: Jaakko Salmi
 -----------------------------------------------------
 Student ID:1304945
 Name: Karar Mehdi Habib
@@ -1330,4 +1330,15 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Fried Jollof Rice
+-----------------------------------------------------
+Student ID:2209221
+Name: Jaakko Salmi
+Question 1.
+Your favorite color: Yellow
+
+Question 2.
+Your favorite sport: Ice Hockey
+
+Question 3.
+Your favorite food: Pizza
 -----------------------------------------------------
