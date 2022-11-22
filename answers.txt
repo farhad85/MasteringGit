@@ -1,7 +1,7 @@
-Number of students who modified this file: 118 students
+Number of students who modified this file: 117 students
 
 
-Name of the last student who modified this file: Gearóid O'Ceallacháin
+Name of the last student who modified this file: AnthonyDaniel
 -----------------------------------------------------
 Student ID:1304945
 Name: Karar Mehdi Habib
@@ -1331,6 +1331,7 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: Fried Jollof Rice
 -----------------------------------------------------
+<<<<<<< HEAD
 Student ID: GearoidOCeallachain
 Name: Gearóid O'Ceallacháin
 Question 1.
@@ -1340,3 +1341,5 @@ Your favourite sport: Cycling
 Question 3.
 Your favourite food: Curry
 -----------------------------------------------------
+=======
+>>>>>>> 9dfac0e (restartting again)
