@@ -1331,15 +1331,3 @@ Your favorite sport: Football
 Question 3.
 Your favorite food: Fried Jollof Rice
 -----------------------------------------------------
-<<<<<<< HEAD
-Student ID: GearoidOCeallachain
-Name: Gearóid O'Ceallacháin
-Question 1.
-Your favourite colour: blue no green.
-Question 2.
-Your favourite sport: Cycling
-Question 3.
-Your favourite food: Curry
------------------------------------------------------
-=======
->>>>>>> 9dfac0e (restartting again)
