@@ -1336,7 +1336,7 @@ Name: Gearóid O'Ceallacháin
 Question 1.
 Your favourite colour: blue no green.
 Question 2.
-Your favourite sport: Cycling
+Your favourite sport: Reading
 Question 3.
 Your favourite food: Curry
 -----------------------------------------------------
