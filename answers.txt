@@ -559,3 +559,14 @@ Your favorite sport: Football and Table Tennis
 Question 3.
 Your favorite food: Fufu
 -----------------------------------------------------
+Student ID: Martha
+Name: Martha Osemwinyen 
+Question 1.
+Your favorite color: Yellow
+
+Question 2.
+Your favorite sport: Tennis
+
+Question 3.
+Your favorite food: Fish and potatoes
+-----------------------------------------------------
