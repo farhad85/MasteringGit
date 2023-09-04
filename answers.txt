@@ -1,6 +1,6 @@
-Number of students who modified this file: 50 students
+Number of students who modified this file: 51 students
 
-Name of the last student who modified this file: Vladimir Shchukin
+Name of the last student who modified this file: Tero Anttila
 
 -----------------------------------------------------
 [Template]
@@ -569,4 +569,15 @@ Your favorite sport: Aggressive Inline Skating
 
 Question 3.
 Your favorite food: My mom's food
+-----------------------------------------------------
+Student ID:1305914
+Name: Tero Anttila
+Question 1.
+Your favorite color: Black
+
+Question 2.
+Your favorite sport: Ice Hockey
+
+Question 3.
+Your favorite food: Pizza
 -----------------------------------------------------
