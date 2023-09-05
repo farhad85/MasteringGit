@@ -581,3 +581,14 @@ Your favorite sport: Chess and Badminton
 Question 3.
 Your favorite food: Vegan salad
 ------------------------------------------------------
+Student ID: none
+Name: Ranjitha Jois
+Question 1.
+Your favorite color: Purple
+
+Question 2.
+Your favorite sport: Badminton
+
+Question 3.
+Your favorite food: Pani puri
+------------------------------------------------------
