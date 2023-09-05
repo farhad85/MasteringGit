@@ -590,5 +590,5 @@ Question 2.
 Your favorite sport: Badminton
 
 Question 3.
-Your favorite food: Pani puri & masala puri
+Your favorite food: Pani puri
 ------------------------------------------------------
